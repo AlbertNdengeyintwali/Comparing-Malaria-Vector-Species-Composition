@@ -156,9 +156,9 @@ ysis. For example, a flag was created to identify whether the data was collected
 intervention was applied. This POST INTERVENTION flag helped in distinguishing baseline
 data from post-intervention data, making it easier to analyze the impact of interventions.
 
-## Statistical Modeling
+### Statistical Modeling
 
-### Generalized Linear Models (GLMs)
+#### Generalized Linear Models (GLMs)
 
 The core of this study is the development and implementation of a Poisson Generalized Linear
 Model (GLM). This section outlines the theoretical foundation and practical implementation of
@@ -192,6 +192,9 @@ $$
 
    This formulation allows the expected counts to be expressed in terms of the independent variables, thereby providing a direct interpretation of the effects of predictors on the response variable. The coefficients $\beta_1, \ldots, \beta_p$ indicate the change in the log count of the response variable for a one-unit change in the corresponding predictor (Hilbe, 2009).
 
+
+  
+  
 - **Model Components.**
   
 
@@ -217,4 +220,33 @@ $$
      average effect of the intervention on mosquito catch rates.
   - $\beta_2 \cdot (SPECIES_{ij} \cdot POST\_INTERVENTION_{ij})$ is the interaction term between species 
      and the post-intervention period, capturing how the intervention affects different species differently.
+
+- **Model Implementation**. The model is implemented using the lme4 package in R, which
+is specifically designed for fitting generalized linear mixed models (GLMMs), including those with
+a Poisson distribution. (Bates et al., 2015).
+- **Model Interpretation and Visualization**. Interpreting and visualizing the model results
+are essential for understanding the impact of Indoor Residual Spraying (IRS) and Long-Lasting
+Insecticidal Nets (LLINs) on vector species composition.
+
+### Software and Tools
+The analysis utilizes software tools such as R as the primary platform for data processing, statis-
+tical modeling, and visualization. The lme4 package is used for fitting generalized linear mixed
+models (GLMMs) with a Poisson distribution.
+
+## Results
+
+his section presents the findings from the analysis of malaria vector species composition using
+a Poisson Generalized Linear Model (GLM) in relation to the implementation of Indoor Residual
+Spraying (IRS) and Long-Lasting Insecticide-Treated Nets (LLINs) across various studies. The
+results provide insights into shifts in vector population dynamics, emphasizing the relative abun-
+dance of key vector species such as An. gambiae, An. funestus, and An. arabiensis. The impact
+of IRS and LLIN interventions on these species is assessed through the Poisson GLM framework,
+allowing for a robust examination of species count data
+
+### Family and Link Function.
+
+<pre> ``` Family: poisson (log) ``` </pre>
+
+
+
 
