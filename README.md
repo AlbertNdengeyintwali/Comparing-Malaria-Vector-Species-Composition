@@ -247,6 +247,28 @@ allowing for a robust examination of species count data
 
 <pre> Family: poisson (log)  </pre>
 
+This indicates the model assumes that the response variable (COUNT) follows a Poisson distribution (appropriate for count data), and it uses the logarithm as the link function to relate the predictors to the expected counts.
+
+- **Fixed Effects**. The fixed effects coefficients indicate the effects on the expected log count
+rates for each species and how these effects change due to the intervention.
+- **Reference Level**: An. arabiensis. In this model, Anopheles arabiensis serves as the
+reference group. This means that coefficients for other species are interpreted relative to An.
+arabiensis.
+
+Given the output provided, let’s interpret the coefficients:
+
+```
+Fixed effects:
+                                       Estimate Std. Error z value Pr(>|z|)    
+POST_INTERVENTIONFALSE                   1.3722     0.8965   1.531    0.126    
+POST_INTERVENTIONTRUE                    1.3139     0.8964   1.466    0.143    
+POST_INTERVENTIONFALSE:SPECIESfunestus   1.6238     0.2632   6.169 6.86e-10 ***
+POST_INTERVENTIONTRUE:SPECIESfunestus   -0.4204     0.2640  -1.593    0.111    
+POST_INTERVENTIONFALSE:SPECIESgambiae    3.1396     1.9240   1.632    0.103    
+POST_INTERVENTIONTRUE:SPECIESgambiae     1.9381     1.9241   1.007    0.314   
+```
+
+
 
 
 
