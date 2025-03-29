@@ -198,9 +198,9 @@ $$
 $$
 \begin{align*}
 \log(COUNT_{ij}) &= \text{offset}(\log(NSAMP_{ij})) + u_{ID_i} + v_{SAMPLING_j} + w_{PDF_k}^{(SPECIES)} +\\
-&\beta_1 \cdot POST\\_INTERVENTION_{ij} + \beta_2 \cdot (SPECIES_{ij} \cdot POST\_ INTERVENTION_{ij})
+&\beta_1 \cdot `POST_INTERVENTION`_{ij} + \beta_2 \cdot (SPECIES_{ij} \cdot POST\_ INTERVENTION_{ij})
 \end{align*}
-$$
+$$ 
 
   Where:
   - $\log(\text{COUNT}_{ij})$ is the log of the expected mosquito count for study $i$ and sampling method $j$.
