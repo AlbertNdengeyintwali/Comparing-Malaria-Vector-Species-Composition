@@ -102,7 +102,9 @@ populations, we can identify potential gaps in current control strategies. By un
 dynamics, we can recommend alternative or supplementary approaches to enhance malaria control
 efforts, ensuring they remain effective in the face of evolving vector populations.
 
-## This chapter outlines the research design, methods, and analytical techniques employed to in-
+## Methodology
+
+This chapter outlines the research design, methods, and analytical techniques employed to in-
 vestigate the impact of Indoor Residual Spraying (IRS) and long-lasting insecticide-treated nets
 (LLINs) on the dynamics of malaria vector species composition. The research methodology is
 structured into several key components, beginning with a detailed examination of the study area,
@@ -133,13 +135,51 @@ These are columns in the dataset collated and published by (Massey, 2016)
 Data processing is a critical step in ensuring that the dataset is of high quality, clean, and ready for
 analysis. This section outlines the key processes undertaken to clean and transform the dataset.
 
-- Cleaning. The first step in data processing was cleaning the raw dataset. This involved
+- **Cleaning.** The first step in data processing was cleaning the raw dataset. This involved
   several sub-tasks:
-   - Consistency in Data Formats: The consistency of the variables’ recording was checked in
+   - **Consistency in Data Formats:** The consistency of the variables’ recording was checked in
      the dataset. To avoid problems during analysis, for example, discrepancies in the recording
      of species names (e.g., different formats of gambiae ss) were standardized. To guarantee
      consistency across variables, inconsistent case usage (such as mixed lowercase and upper-
       case entries) was also fixed.
+- **ransformation.** After cleaning, several transformations were applied to the dataset to
+make it more suitable for analysis:
+   - **Variable Standardization:** he dataset included a variety of variables that were recorded
+in various units and formats. Measurements like mosquito numbers, for example, were
+occasionally reported as means, totals per day, or totals per month. All estimations were
+transformed into total counts as needed in order to standardize these units. In order to
+determine the overall number of mosquitoes when the data was displayed as an average,
+the number of samples had to be determined.
+  - **Feature Creation:** New features were derived from existing ones to facilitate better anal-
+ysis. For example, a flag was created to identify whether the data was collected after the
+intervention was applied. This POST INTERVENTION flag helped in distinguishing baseline
+data from post-intervention data, making it easier to analyze the impact of interventions.
+
+## Statistical Modeling
+
+### Generalized Linear Models (GLMs)
+
+The core of this study is the development and implementation of a Poisson Generalized Linear
+Model (GLM). This section outlines the theoretical foundation and practical implementation of
+the model.
+
+- **Generalized Linear Models (GLMs)**. Generalized Linear Models (GLMs) were intro-
+duced by (Nelder and Wedderburn, 1972) as a framework that extends traditional linear regres-
+sion to accommodate response variables that follow different distributions, including the Poisson
+distribution for count data. The motivation behind GLMs was to allow for more flexible modeling
+of various types of data while maintaining a unified approach to statistical modeling (McCullagh,
+1999).
+  
+A key advantage of GLMs is their ability to model the relationship between dependent and
+independent variables through a linear predictor while allowing for the response variable to follow
+a distribution other than normal. This flexibility is particularly important for count data, which
+often exhibit properties such as overdispersion, making the Poisson distribution an appropriate
+choice (Radam and Hameed, 2023).
+The general structure of a GLM can be expressed as:
+
+$$
+g \left( E(Y) \right) = \alpha + \beta_1 x_1 + \beta_2 x_2 + \cdots + \beta_p x_p
+$$
 
 
 
