@@ -193,6 +193,7 @@ $$
    This formulation allows the expected counts to be expressed in terms of the independent variables, thereby providing a direct interpretation of the effects of predictors on the response variable. The coefficients $\beta_1, \ldots, \beta_p$ indicate the change in the log count of the response variable for a one-unit change in the corresponding predictor (Hilbe, 2009).
 
 - **Model Components.**
+  
 $$
 \begin{align*}
 \log(\text{COUNT}_{ij}) &= \text{offset}(\log(\text{NSAMP}_{ij})) + u_{ID_i} + v_{SAMPLING_j} + w_{PDF_k}^{(SPECIES)} +\\
