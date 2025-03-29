@@ -245,7 +245,7 @@ allowing for a robust examination of species count data
 
 ### Family and Link Function.
 
-<pre> ``` Family: poisson (log) ``` </pre>
+<pre> Family: poisson (log)  </pre>
 
 
 
