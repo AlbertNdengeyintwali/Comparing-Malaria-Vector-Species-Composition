@@ -178,18 +178,18 @@ often exhibit properties such as overdispersion, making the Poisson distribution
 choice (Radam and Hameed, 2023).
 The general structure of a GLM can be expressed as:
 
+$$
+g \left( E(Y) \right) = \alpha + \beta_1 x_1 + \beta_2 x_2 + \cdots + \beta_p x_p
+$$
 
-  $$
-  g \left( E(Y) \right) = \alpha + \beta_1 x_1 + \beta_2 x_2 + \cdots + \beta_p x_p
-  $$
 
   where $Y$ is the dependent variable (i.e., the count we are trying to predict), $E(Y)$ denotes the expected value, $g(Y)$ is the link function that relates the expected value to the linear predictor, and $x_1, \ldots, x_p$ are the independent variables.
 
   For a Poisson GLM, the link function typically used is the logarithm, which models the log of the expected count as a linear combination of the predictors:
 
-  $$
-  \log(E(Y)) = \alpha + \beta_1 x_1 + \beta_2 x_2 + \cdots + \beta_p x_p
-  $$
+$$
+\log(E(Y)) = \alpha + \beta_1 x_1 + \beta_2 x_2 + \cdots + \beta_p x_p
+$$
 
   This formulation allows the expected counts to be expressed in terms of the independent variables, thereby providing a direct interpretation of the effects of predictors on the response variable. The coefficients $\beta_1, \ldots, \beta_p$ indicate the change in the log count of the response variable for a one-unit change in the corresponding predictor (Hilbe, 2009).
 
@@ -326,6 +326,47 @@ Random effects:
 | (Odhiambo et al) | TRUE           | 157.797411  | 0.386838602 | 0.5152027617 | 0.09795864 |
 | Awolola et al   | FALSE           | 4706.919445 | 0.003524958 | 0.0007003502 | 0.99577469 |
 | Awolola et al   | TRUE            | 1334.870696 | 0.001518183 | 0.0023296809 | 0.99615214 |
+
+![Mosquito_predicted](https://github.com/user-attachments/assets/9213472c-7121-48bf-aedf-b070e145a8b8)
+
+The graph provides a clear indication that the implementation of interventions has a substantial
+effect on reducing the populations of all three mosquito species Arabiensis, Funestus, and Gambiae
+across different reaseach studies (PDF). Specifically, the data shows a marked decrease in the
+total counts of these species when interventions are applied, compared to when they are not.
+
+## Conclusion and Perspectives for future work
+
+### Conclusion
+
+The analysis, employing a Poisson Generalized Linear Model (GLM), demonstrates effects in the
+populations of key malaria vectors, particularly An. gambiae, An. funestus, and An. arabiensis.
+While An. funestus demonstrates a significant higher abundance pre-intervention compared to
+the likely reference species, An. arabiensis, its abundance decreases post-intervention, although
+not significantly. Similarly, An. gambiae shows higher pre-intervention abundance without statis-
+tically significant effects from the intervention. These findings underscore the need for species-
+specific strategies in malaria control, suggesting that further research is essential to understand
+the ecological factors influencing vector dynamics and to enhance the effectiveness of current
+interventions.
+For the graph, it shows decline in mosquito abundance post-intervention in different sdudies
+done (PDF) indicates that these control measures IRS and LLINs with each used individually can
+effectively mitigate malaria transmission risk. Continuous monitoring is essential to evaluate the
+long-term impact of these interventions and to guide future malaria control programs.
+
+### Perspectives for future work
+
+To enhance the effectiveness of malaria vector control efforts, several key Perspectives for future
+work should be prioritized:
+- Further Investigation of Intervention Strategies: Given the lack of significant effects
+observed, it is essential to explore alternative intervention strategies or enhance the current
+measures. A comprehensive evaluation of different insecticides or application methods may
+yield more impactful results.
+- Longitudinal Studies: Conducting long-term studies that monitor mosquito populations
+over multiple seasons may provide deeper insights into the temporal dynamics of species
+abundance and the potential lag effects of interventions.
+- Integration of Environmental Factors: Assessing environmental variables that influ-
+ence mosquito behavior and habitat preferences may offer additional explanations for the
+observed patterns. Understanding these factors can guide more effective interventions.
+
 
 
   
