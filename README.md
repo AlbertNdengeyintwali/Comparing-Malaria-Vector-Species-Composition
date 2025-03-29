@@ -367,6 +367,12 @@ abundance and the potential lag effects of interventions.
 ence mosquito behavior and habitat preferences may offer additional explanations for the
 observed patterns. Understanding these factors can guide more effective interventions.
 
+  ## Ownership
+This project is owned and created by **Albert Ndengeyintwali**.
+
+© 2025 Albert Ndengeyintwali. All rights reserved.
+
+
 
 
   
