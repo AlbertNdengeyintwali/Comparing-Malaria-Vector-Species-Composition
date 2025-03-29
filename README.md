@@ -1,10 +1,145 @@
-# Comparing-Malaria-Vector-Species-Composition
-This project builds on existing research by [Habeebullah Jayeola et al.](#reference-1), highlighting the challenges of malaria control in sub-Saharan Africa.  
+# Comparing malaria vector species composition trends in sites implementing Indoor Residual Spraying (IRS) and Long-Lasting Insecticidal Nets (LLINs) as core vector control interventions
 
-## References  
-### Reference 1  
-Habeebullah Jayeola et al., "Increasing challenges of malaria control in sub-Saharan Africa:  
-Priorities for public health research and policymakers," *Annals of Medicine and Surgery*, vol. 81, p. 104366, August 2022.  
-DOI: [10.1016/j.amsu.2022.104366](https://doi.org/10.1016/j.amsu.2022.104366)
+## Introduction
+
+Malaria remains one of the most significant global public health problems, particularly in Sub-
+Saharan Africa (Oladipo, 2022). It is caused by Plasmodium parasites and transmitted to people
+through the bites of infected female Anopheles mosquitoes. This illness leads to high mortality
+rates and a substantial burden of disease (Aju-Ameh, 2020). Despite extensive control efforts,
+malaria continues to affect millions of people, causing significant morbidity and mortality, espe-
+cially among children under five and pregnant women. The World Health Organization (WHO)
+estimates that in 2021, there were over 249 million cases of malaria and around 608,000 deaths
+globally (WHO, 2022), with Sub-Saharan Africa bearing the brunt of this burden (WHO, 2021).
+
+### Successes of Malaria Control
+
+Global efforts to control malaria have led to substantial reductions in both disease prevalence and
+incidence. These successes are largely attributed to the widespread implementation of vector con-
+trol interventions, particularly Indoor Residual Spraying (IRS) and Long-Lasting Insecticidal Nets
+(LLINs), which have been cornerstones in reducing transmission rates (World Health Organiza-
+tion, 2020). IRS works by applying insecticides to the interior walls of homes, killing mosquitoes
+when they rest after feeding, while LLINs provide a physical barrier and chemical protection during
+sleep, the peak biting time for Anopheles mosquitoes (Pluess et al., 2010; Bayoh, 2014).
+
+Over the past two decades, these interventions have been credited with preventing millions of
+malaria cases and saving countless lives, especially in sub-Saharan Africa. According to the
+World Health Organization (WHO), more than 1.5 billion insecticide-treated nets were distributed
+globally between 2000 and 2020, contributing to a 60% reduction in malaria mortality rates
+(WHO, 2021). IRS, when used in targeted areas with high transmission rates, has been shown
+to further reduce the vector population and suppress malaria transmission (Kleinschmidt, 2015).
+
+However, maintaining and building on these achievements requires addressing emerging chal-
+lenges. The most pressing issue is the development of insecticide resistance among mosquito
+populations. Studies have shown that mosquitoes are evolving resistance to the pyrethroids com-
+monly used in LLINs and IRS, which threatens to undermine the effectiveness of these tools
+(Ranson et al., 2011; Hemingway et al., 2016). Additionally, changes in mosquito behavior, such
+as increased outdoor feeding and resting, are reducing the impact of indoor-focused interventions
+(Gatton et al., 2013).
+
+### Vector Control Interventions and Challenges
+
+Controlling malaria transmission through vector control is a key strategy for reducing the burden
+of the disease. Two primary interventions are Indoor Residual Spraying (IRS) and Long-Lasting
+Insecticidal Nets (LLINs), both of which target mosquito populations, the primary vectors of
+malaria transmission (Gatton, 2013). While these measures have proven effective in many settings,
+their success is highly dependent on local environmental conditions, proper implementation, and
+community compliance.
+
+- **ndoor Residual Spraying (IRS)** involves the application of insecticides to the interior walls of homes. It works by killing mosquitoes that rest on treated surfaces after feeding. IRS is highly effective in reducing mosquito populations
+within targeted areas, especially when high coverage is maintained (Pryce et al., 2022).
+- **Long-Lasting Insecticidal Nets (LLINs)** are bed nets treated with insecticide, designed to
+protect individuals while they sleep, when mosquitoes are most active. LLINs provide both a
+physical barrier and a chemical deterrent, reducing the number of mosquito bites and, therefore,
+the transmission of malaria (Ng’ang’a et al., 2021).
+
+## Motivation
+
+The urgency to fix the shortcomings of the existing strategies for the controlling of malaria caused
+by the new types of vector populations is the one that directed our research. We propose to find
+the factors that determine the success or the failure of these interventions by the analysis of
+the effects of IRS and LLINs on the species composition of malaria vectors. The knowledge
+that will be gained from this research will be used in the development of the most efficient and
+adaptable control methods that address the particular ecological and evolutionary constraints that
+mosquitoes in various geographic regions experience. The sustainability of the control methods
+should be secured as, on one side, they involve substantial investment and, on the other, the
+disease is of high prevalence. The study aims to make available the plan of actions or provide
+the best predictions of the outcomes of IRS and LLINs usage for malarial vector control.
+
+## Project Objectives
+The primary objective of this study is to investigate the patterns of malaria vector species compo-
+sition in response to Indoor Residual Spraying (IRS) and Long-Lasting Insecticidal Nets (LLINs).
+Specifically, the study aims to:
+
+- Understand Patterns in Vector Composition Before and After Interventions.
+To determine the patterns in vector species composition before and after the implementation
+of IRS and LLIN interventions. Collate existing data on vector populations and interventions
+from various sources. Perform exploratory data analysis (EDA) to compute summary statistics
+and understand the relative proportions of the three major malaria vector species (Anopheles
+gambiae, An. funestus, and An. arabiensis).
+- Develop a Statistical Model to Capture Changes in Species Composition. To build
+a model capable of capturing changes in the species composition of malaria vectors Based on the
+intervention.
+
+## Problem statement
+Malaria is still a serious public health issue, even with the extensive use of Long-Lasting In-
+secticidal Nets (LLINs) and Indoor Residual Spraying (IRS). These measures, which have been
+widely adopted, are essential parts of malaria control programs around the world. Comprehending
+and tackling this obstacle is essential to the sustained triumph of malaria prevention initiatives
+(Ingabire, 2015).
+
+The fact that mosquito vector populations are dynamic presents one of the biggest obstacles
+to the control of malaria. Over time, a variety of reasons, including behavioral adaptations to
+control measures, environmental changes, or the emergence of insecticide resistance, can cause
+changes in the species makeup of mosquito populations. While environmental changes might
+affect mosquito breeding sites and habitats, behavioral adjustments might involve shifting feeding
+schedules or places to avoid coming into contact with pesticides. The effectiveness of IRS and
+LLINs is seriously threatened by pesticide resistance, a phenomenon in which mosquitoes acquire
+the capacity to survive exposure to insecticides (Ingabire, 2015).
+
+This study aims to investigate the dynamics of vector species composition, focusing specifically
+on the impact of IRS and LLINs. By examining how these interventions influence mosquito
+populations, we can identify potential gaps in current control strategies. By understanding these
+dynamics, we can recommend alternative or supplementary approaches to enhance malaria control
+efforts, ensuring they remain effective in the face of evolving vector populations.
+
+## This chapter outlines the research design, methods, and analytical techniques employed to in-
+vestigate the impact of Indoor Residual Spraying (IRS) and long-lasting insecticide-treated nets
+(LLINs) on the dynamics of malaria vector species composition. The research methodology is
+structured into several key components, beginning with a detailed examination of the study area,
+which includes the selection criteria for specific sites based on ecological diversity and historical
+data availability. Following this, the data collection section describes the sources of data, which
+include Intervention Information and Vector Sampling Data. These data encompass IRS and
+LLINs deployment records, entomological surveys, and environmental data pertinent to vector
+distribution.The data analysis section elaborates on the statistical and computational methods
+used to process and interpret the data, including the use of Poisson Generalised Linear Model
+(GLM). The model development section details the construction and calibration of species dis-
+tribution models, while the validation and interpretation section focuses on the methods used
+to assess the accuracy and reliability of the models and interpret the results in the context of
+vector control effectiveness. This comprehensive approach aims to provide a robust analysis of
+the impact of IRS and LLINs on malaria vector species from other countries to inform decisions in
+Rwanda, thereby informing future strategies for malaria control and contributing to the broader
+goals of reducing malaria incidence and improving public health outcomes.
+
+### Data collection
+
+The data collection phase of this study involve compiling existing intervention information and
+vector sampling data that are readily available. This includes gathering details on the types
+and specifics of control measures already implemented, as well as accessing records related to
+mosquito populations and their behaviors
+These are columns in the dataset collated and published by (Massey, 2016)
+
+### Data Processing
+
+Data processing is a critical step in ensuring that the dataset is of high quality, clean, and ready for
+analysis. This section outlines the key processes undertaken to clean and transform the dataset.
+
+- Cleaning. The first step in data processing was cleaning the raw dataset. This involved
+  several sub-tasks:
+   - Consistency in Data Formats: The consistency of the variables’ recording was checked in
+     the dataset. To avoid problems during analysis, for example, discrepancies in the recording
+     of species names (e.g., different formats of gambiae ss) were standardized. To guarantee
+     consistency across variables, inconsistent case usage (such as mixed lowercase and upper-
+      case entries) was also fixed.
+
 
 
