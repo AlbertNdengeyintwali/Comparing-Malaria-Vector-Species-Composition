@@ -1,0 +1,576 @@
+"PDF","LONG_SPAT","SPECIES","TREAT_BASELINE","CONTROL_BASELINE","TREAT_POST","CONTROL_POST","UNIT","SEASON","SAMPLING","INTERVENTION","COUNTRY","MONTH_START","MONTH_END","TREAT_BASELINE_NSAMP","CONTROL_BASELINE_NSAMP","TREAT_POST_NSAMP","CONTROL_POST_NSAMP"
+"415","spatial","gambiae complex",0.4,0.51,0.1,0.08,"mean/catch","dry","HRI","insecticide curtains","Mozambique","6","10",105,105,210,210
+"415","spatial","gambiae complex",1.57,1,0.23,2.1,"mean/catch","dry","MBI","insecticide curtains","Mozambique","6","10",20,20,40,40
+"415","spatial","gambiae complex",2.21,0.86,2.85,3.36,"mean/catch","dry","MBO","insecticide curtains","Mozambique","6","10",20,20,40,40
+"415","spatial","funestus",4.7,5.67,0.55,1.89,"mean/catch","dry","HRI","insecticide curtains","Mozambique","6","10",105,105,210,210
+"415","spatial","funestus",20.86,26.86,5.32,21.7,"mean/catch","dry","MBI","insecticide curtains","Mozambique","6","10",20,20,40,40
+"415","spatial","funestus",5.86,5.43,2.12,3.46,"mean/catch","dry","MBO","insecticide curtains","Mozambique","6","10",20,20,40,40
+"446","spatial","arabiensis",NA,NA,0.17,0.2,"mean/room","dry","HRI","IRS","Sudan","11","11",NA,NA,60,20
+"446","spatial","arabiensis",NA,NA,0.1,0.2,"mean/room","dry","HRI","IRS","Sudan","12","12",NA,NA,60,20
+"446","spatial","arabiensis",NA,NA,0.07,0.1,"mean/room","dry","HRI","IRS","Sudan","1","1",NA,NA,60,20
+"446","spatial","arabiensis",NA,NA,0.23,0.3,"mean/room","dry","HRI","IRS","Sudan","2","2",NA,NA,60,20
+"446","spatial","arabiensis",NA,NA,1.27,0.9,"mean/room","dry","HRI","IRS","Sudan","3","3",NA,NA,60,20
+"446","spatial","arabiensis",NA,NA,0.27,0.1,"mean/room","dry","HRI","IRS","Sudan","4","4",NA,NA,60,20
+"446","spatial","arabiensis",NA,NA,0.13,0.2,"mean/room","dry","HRI","IRS","Sudan","5","5",NA,NA,60,20
+"446","spatial","arabiensis",NA,NA,0.17,0.1,"mean/room","dry","HRI","IRS","Sudan","6","6",NA,NA,60,20
+"446","spatial","arabiensis",NA,NA,0.03,0.1,"mean/room","dry","HRI","IRS","Sudan","7","7",NA,NA,60,20
+"446","spatial","arabiensis",NA,NA,0,0.2,"mean/room","rainy","HRI","IRS","Sudan","8","8",NA,NA,60,20
+"446","spatial","arabiensis",NA,NA,0.13,0.3,"mean/room","rainy","HRI","IRS","Sudan","9","9",NA,NA,60,20
+"446","spatial","arabiensis",NA,NA,1.23,0.9,"mean/room","rainy","HRI","IRS","Sudan","10","10",NA,NA,60,20
+"446","spatial","arabiensis",NA,NA,0.17,5.8,"mean/room","dry","HRI","IRS","Sudan","11","11",NA,NA,60,20
+"446","spatial","arabiensis",NA,NA,0.1,6.5,"mean/room","dry","HRI","IRS","Sudan","12","12",NA,NA,60,20
+"446","spatial","arabiensis",NA,NA,0.07,7.1,"mean/room","dry","HRI","IRS","Sudan","1","1",NA,NA,60,20
+"446","spatial","arabiensis",NA,NA,0.23,8,"mean/room","dry","HRI","IRS","Sudan","2","2",NA,NA,60,20
+"446","spatial","arabiensis",NA,NA,1.27,5.3,"mean/room","dry","HRI","IRS","Sudan","3","3",NA,NA,60,20
+"446","spatial","arabiensis",NA,NA,0.27,5.2,"mean/room","dry","HRI","IRS","Sudan","4","4",NA,NA,60,20
+"446","spatial","arabiensis",NA,NA,0.13,3.6,"mean/room","dry","HRI","IRS","Sudan","5","5",NA,NA,60,20
+"446","spatial","arabiensis",NA,NA,0.17,3.4,"mean/room","dry","HRI","IRS","Sudan","6","6",NA,NA,60,20
+"446","spatial","arabiensis",NA,NA,0.03,8.6,"mean/room","dry","HRI","IRS","Sudan","7","7",NA,NA,60,20
+"446","spatial","arabiensis",NA,NA,0,9.6,"mean/room","rainy","HRI","IRS","Sudan","8","8",NA,NA,60,20
+"446","spatial","arabiensis",NA,NA,0.13,10.1,"mean/room","rainy","HRI","IRS","Sudan","9","9",NA,NA,60,20
+"446","spatial","arabiensis",NA,NA,1.23,12.6,"mean/room","rainy","HRI","IRS","Sudan","10","10",NA,NA,60,20
+"1073","spatial","gambiae complex",NA,NA,0.97,10.4,"mean/house","both","HRI","insecticide curtains","Kenya","6","5",NA,NA,240,240
+"1073","spatial","funestus",NA,NA,0.28,4.5,"mean/house","both","HRI","insecticide curtains","Kenya","6","5",NA,NA,240,240
+"1073","spatial","gambiae complex",NA,NA,4.2,30,"mean/house","rainy","HRI","insecticide curtains","Kenya","4","4",NA,NA,20,20
+"1073","spatial","funestus",NA,NA,0.3,3.2,"mean/house","rainy","HRI","insecticide curtains","Kenya","4","4",NA,NA,20,20
+"1073","spatial","gambiae complex",NA,NA,5.2,45,"mean/house","rainy","HRI","insecticide curtains","Kenya","5","5",NA,NA,20,20
+"1073","spatial","funestus",NA,NA,0.6,11.5,"mean/house","rainy","HRI","insecticide curtains","Kenya","5","5",NA,NA,20,20
+"1189","spatial","gambiae",NA,NA,9.6,2.4,"mean/trap (jan-mar)","dry","ILT","IRS","Tanzania","1","3",NA,NA,3,3
+"1189","spatial","gambiae",NA,NA,2.2,11.5,"mean/trap (apr-jun)","rainy","ILT","IRS","Tanzania","4","6",NA,NA,3,3
+"1189","spatial","gambiae",NA,NA,0.6,3.4,"mean/trap (jul-sept)","dry","ILT","IRS","Tanzania","7","9",NA,NA,3,3
+"1189","spatial","gambiae",NA,NA,1.4,0.4,"mean/trap (oct-dec)","rainy","ILT","IRS","Tanzania","10","12",NA,NA,3,3
+"1189","spatial","gambiae",NA,NA,0.2,4.1,"mean/house (jan-mar)","dry","HRI","IRS","Tanzania","1","3",NA,NA,6,6
+"1189","spatial","gambiae",NA,NA,0.03,8.5,"mean/house (apr-jun)","rainy","HRI","IRS","Tanzania","4","6",NA,NA,6,6
+"1189","spatial","gambiae",NA,NA,0,3.2,"mean/house (jul-sept)","dry","HRI","IRS","Tanzania","7","9",NA,NA,6,6
+"1189","spatial","gambiae",NA,NA,0,4.3,"mean/house (oct-dec)","rainy","HRI","IRS","Tanzania","10","12",NA,NA,6,6
+"1189","spatial","gambiae",NA,NA,1.3,0.5,"mean/pit (jan-mar)","dry","pit trap","IRS","Tanzania","1","3",NA,NA,4,4
+"1189","spatial","gambiae",NA,NA,2.7,1.4,"mean/pit (apr-jun)","rainy","pit trap","IRS","Tanzania","4","6",NA,NA,4,4
+"1189","spatial","gambiae",NA,NA,0.3,0.1,"mean/pit (jul-sept)","dry","pit trap","IRS","Tanzania","7","9",NA,NA,4,4
+"1189","spatial","gambiae",NA,NA,0.3,0.6,"mean/pit (oct-dec)","rainy","pit trap","IRS","Tanzania","10","12",NA,NA,4,4
+"1189","spatial","arabiensis",NA,NA,131,185.7,"mean/trap (jan-mar)","dry","ILT","IRS","Tanzania","1","3",NA,NA,3,3
+"1189","spatial","arabiensis",NA,NA,209,7,"mean/trap (apr-jun)","rainy","ILT","IRS","Tanzania","4","6",NA,NA,3,3
+"1189","spatial","arabiensis",NA,NA,4.5,4,"mean/trap (jul-sept)","dry","ILT","IRS","Tanzania","7","9",NA,NA,3,3
+"1189","spatial","arabiensis",NA,NA,143.3,10.7,"mean/trap (oct-dec)","rainy","ILT","IRS","Tanzania","10","12",NA,NA,3,3
+"1189","spatial","arabiensis",NA,NA,0.33,15.3,"mean/house (jan-mar)","dry","HRI","IRS","Tanzania","1","3",NA,NA,6,6
+"1189","spatial","arabiensis",NA,NA,0,5,"mean/house (apr-jun)","rainy","HRI","IRS","Tanzania","4","6",NA,NA,6,6
+"1189","spatial","arabiensis",NA,NA,0,1.7,"mean/house (jul-sept)","dry","HRI","IRS","Tanzania","7","9",NA,NA,6,6
+"1189","spatial","arabiensis",NA,NA,0,7,"mean/house (oct-dec)","rainy","HRI","IRS","Tanzania","10","12",NA,NA,6,6
+"1189","spatial","arabiensis",NA,NA,3,205.7,"mean/pit (jan-mar)","dry","pit trap","IRS","Tanzania","1","3",NA,NA,4,4
+"1189","spatial","arabiensis",NA,NA,9,9,"mean/pit (apr-jun)","rainy","pit trap","IRS","Tanzania","4","6",NA,NA,4,4
+"1189","spatial","arabiensis",NA,NA,0.7,2.7,"mean/pit (jul-sept)","dry","pit trap","IRS","Tanzania","7","9",NA,NA,4,4
+"1189","spatial","arabiensis",NA,NA,1,1.3,"mean/pit (oct-dec)","rainy","pit trap","IRS","Tanzania","10","12",NA,NA,4,4
+"1189","spatial","arabiensis",NA,NA,205.7,185.7,"mean/trap (jan-mar)","dry","ILT","IRS","Tanzania","1","3",NA,NA,3,3
+"1189","spatial","arabiensis",NA,NA,34,7,"mean/trap (apr-jun)","rainy","ILT","IRS","Tanzania","4","6",NA,NA,3,3
+"1189","spatial","arabiensis",NA,NA,5.7,4,"mean/trap (jul-sept)","dry","ILT","IRS","Tanzania","7","9",NA,NA,3,3
+"1189","spatial","arabiensis",NA,NA,2,10.7,"mean/trap (oct-dec)","rainy","ILT","IRS","Tanzania","10","12",NA,NA,3,3
+"1189","spatial","arabiensis",NA,NA,1.3,15.3,"mean/house (jan-mar)","dry","HRI","IRS","Tanzania","1","3",NA,NA,6,6
+"1189","spatial","arabiensis",NA,NA,0,5,"mean/house (apr-jun)","rainy","HRI","IRS","Tanzania","4","6",NA,NA,6,6
+"1189","spatial","arabiensis",NA,NA,0,1.7,"mean/house (jul-sept)","dry","HRI","IRS","Tanzania","7","9",NA,NA,6,6
+"1189","spatial","arabiensis",NA,NA,0,7,"mean/house (oct-dec)","rainy","HRI","IRS","Tanzania","10","12",NA,NA,6,6
+"1189","spatial","arabiensis",NA,NA,29.7,205.7,"mean/pit (jan-mar)","dry","pit trap","IRS","Tanzania","1","3",NA,NA,4,4
+"1189","spatial","arabiensis",NA,NA,21.3,9,"mean/pit (apr-jun)","rainy","pit trap","IRS","Tanzania","4","6",NA,NA,4,4
+"1189","spatial","arabiensis",NA,NA,0.3,2.7,"mean/pit (jul-sept)","dry","pit trap","IRS","Tanzania","7","9",NA,NA,4,4
+"1189","spatial","arabiensis",NA,NA,1,1.3,"mean/pit (oct-dec)","rainy","pit trap","IRS","Tanzania","10","12",NA,NA,4,4
+"1198","spatial","gambiae complex",NA,NA,256,397,"n/day","rainy","MBI","ITN","The Gambia","7","7",NA,NA,NA,NA
+"1198","spatial","gambiae complex",NA,NA,85,24,"n/day","rainy","MBI","ITN","The Gambia","7","7",NA,NA,NA,NA
+"1198","spatial","gambiae complex",NA,NA,150,75,"n/day","rainy","MBI","ITN","The Gambia","7","7",NA,NA,NA,NA
+"1198","spatial","gambiae complex",NA,NA,51,26,"n/day","rainy","MBI","ITN","The Gambia","7","7",NA,NA,NA,NA
+"1198","spatial","gambiae complex",NA,NA,18,41,"n/day","rainy","MBI","ITN","The Gambia","7","7",NA,NA,NA,NA
+"1198","spatial","gambiae complex",NA,NA,19,77,"n/day","rainy","MBI","ITN","The Gambia","7","7",NA,NA,NA,NA
+"1198","spatial","gambiae complex",NA,NA,80,87,"n/day","rainy","MBI","ITN","The Gambia","7","7",NA,NA,NA,NA
+"1198","spatial","gambiae complex",NA,NA,13,17,"n/day","rainy","MBI","ITN","The Gambia","7","7",NA,NA,NA,NA
+"1198","spatial","gambiae complex",NA,NA,5,5,"n/day","rainy","MBI","ITN","The Gambia","7","7",NA,NA,NA,NA
+"1198","spatial","gambiae complex",NA,NA,205,347,"n/day","rainy","MBO","ITN","The Gambia","7","7",NA,NA,NA,NA
+"1198","spatial","gambiae complex",NA,NA,65,7,"n/day","rainy","MBO","ITN","The Gambia","7","7",NA,NA,NA,NA
+"1198","spatial","gambiae complex",NA,NA,60,9,"n/day","rainy","MBO","ITN","The Gambia","7","7",NA,NA,NA,NA
+"1198","spatial","gambiae complex",NA,NA,26,12,"n/day","rainy","MBO","ITN","The Gambia","7","7",NA,NA,NA,NA
+"1198","spatial","gambiae complex",NA,NA,26,16,"n/day","rainy","MBO","ITN","The Gambia","7","7",NA,NA,NA,NA
+"1198","spatial","gambiae complex",NA,NA,25,63,"n/day","rainy","MBO","ITN","The Gambia","7","7",NA,NA,NA,NA
+"1198","spatial","gambiae complex",NA,NA,37,68,"n/day","rainy","MBO","ITN","The Gambia","7","7",NA,NA,NA,NA
+"1198","spatial","gambiae complex",NA,NA,15,12,"n/day","rainy","MBO","ITN","The Gambia","7","7",NA,NA,NA,NA
+"1198","spatial","gambiae complex",NA,NA,8,10,"n/day","rainy","MBO","ITN","The Gambia","7","7",NA,NA,NA,NA
+"1301","spatial","arabiensis",NA,NA,2,4.2,"mean/hut","both","WinExit","IRS","South Africa","1","4",NA,NA,155,60
+"1301","spatial","arabiensis",NA,NA,0.1,2.9,"mean/hut","both","HRI","IRS","South Africa","1","4",NA,NA,79,23
+"1305","spatial","gambiae",NA,NA,1.7,2,"mean/house","rainy","HRI and exit traps (combined)","ITN","Kenya","4","5",NA,NA,60,60
+"1305","spatial","arabiensis",NA,NA,0.48,0.47,"mean/house","rainy","HRI and exit traps (combined)","ITN","Kenya","4","5",NA,NA,60,60
+"1305","spatial","funestus",NA,NA,2.7,4.2,"mean/house","rainy","HRI and exit traps (combined)","ITN","Kenya","4","5",NA,NA,60,60
+"1327","spatial","gambiae complex",NA,NA,137.09,131.43,"mean/house","rainy","HRI","insecticide curtains","Burkina Faso","8","8",NA,NA,10,8
+"1327","spatial","gambiae complex",NA,NA,0,62.33,"mean/house","rainy","HRI","insecticide curtains","Burkina Faso","9","9",NA,NA,10,8
+"1327","spatial","gambiae complex",NA,NA,0.36,74,"mean/house","rainy","HRI","insecticide curtains","Burkina Faso","9","9",NA,NA,10,8
+"1327","spatial","gambiae complex",NA,NA,0,67.29,"mean/house","rainy","HRI","insecticide curtains","Burkina Faso","9","9",NA,NA,10,8
+"1327","spatial","gambiae complex",NA,NA,0.55,52,"mean/house","rainy","HRI","insecticide curtains","Burkina Faso","9","9",NA,NA,10,8
+"1327","spatial","gambiae complex",NA,NA,0.36,51.86,"mean/house","rainy","HRI","insecticide curtains","Burkina Faso","10","10",NA,NA,10,8
+"1327","spatial","gambiae complex",NA,NA,0.64,25.57,"mean/house","rainy","HRI","insecticide curtains","Burkina Faso","10","10",NA,NA,10,8
+"1327","spatial","gambiae complex",NA,NA,0.09,23.83,"mean/house","dry","HRI","insecticide curtains","Burkina Faso","11","11",NA,NA,10,8
+"1327","spatial","gambiae complex",NA,NA,0.27,31,"mean/house","dry","HRI","insecticide curtains","Burkina Faso","11","11",NA,NA,10,8
+"1327","spatial","gambiae complex",NA,NA,0.18,16.29,"mean/house","dry","HRI","insecticide curtains","Burkina Faso","11","11",NA,NA,10,8
+"1327","spatial","gambiae complex",NA,NA,0,9.67,"mean/house","dry","HRI","insecticide curtains","Burkina Faso","12","12",NA,NA,10,8
+"1327","spatial","gambiae complex",NA,NA,0,2.5,"mean/house","dry","HRI","insecticide curtains","Burkina Faso","12","12",NA,NA,10,8
+"1327","spatial","gambiae complex",NA,NA,0,4.25,"mean/house","dry","HRI","insecticide curtains","Burkina Faso","12","12",NA,NA,10,8
+"1327","spatial","gambiae complex",NA,NA,1.4,14.5,"mean/house","rainy","HRI","insecticide curtains","Burkina Faso","6","6",NA,NA,10,8
+"1327","spatial","gambiae complex",NA,NA,0.6,30.17,"mean/house","rainy","HRI","insecticide curtains","Burkina Faso","6","6",NA,NA,10,8
+"1327","spatial","gambiae complex",NA,NA,0.9,58,"mean/house","rainy","HRI","insecticide curtains","Burkina Faso","7","7",NA,NA,10,8
+"1327","spatial","gambiae complex",NA,NA,0.6,66.14,"mean/house","rainy","HRI","insecticide curtains","Burkina Faso","7","7",NA,NA,10,8
+"1327","spatial","gambiae complex",NA,NA,6.37,82.14,"mean/house","rainy","HRI","insecticide curtains","Burkina Faso","8","8",NA,NA,10,8
+"1327","spatial","funestus",NA,NA,0,0.14,"mean/house","rainy","HRI","insecticide curtains","Burkina Faso","9","9",NA,NA,10,8
+"1327","spatial","funestus",NA,NA,0,3.14,"mean/house","rainy","HRI","insecticide curtains","Burkina Faso","9","9",NA,NA,10,8
+"1327","spatial","funestus",NA,NA,0,2.43,"mean/house","rainy","HRI","insecticide curtains","Burkina Faso","10","10",NA,NA,10,8
+"1327","spatial","funestus",NA,NA,0,1.71,"mean/house","rainy","HRI","insecticide curtains","Burkina Faso","10","10",NA,NA,10,8
+"1327","spatial","funestus",NA,NA,0,0.33,"mean/house","dry","HRI","insecticide curtains","Burkina Faso","11","11",NA,NA,10,8
+"1327","spatial","funestus",NA,NA,0,0.6,"mean/house","dry","HRI","insecticide curtains","Burkina Faso","11","11",NA,NA,10,8
+"1327","spatial","funestus",NA,NA,0,0.14,"mean/house","dry","HRI","insecticide curtains","Burkina Faso","11","11",NA,NA,10,8
+"1327","spatial","funestus",NA,NA,0,0.29,"mean/house","dry","HRI","insecticide curtains","Burkina Faso","12","12",NA,NA,10,8
+"1327","spatial","funestus",NA,NA,0,0.25,"mean/house","dry","HRI","insecticide curtains","Burkina Faso","12","12",NA,NA,10,8
+"1327","spatial","funestus",NA,NA,0,0.2,"mean/house","rainy","HRI","insecticide curtains","Burkina Faso","7","7",NA,NA,10,8
+"1327","spatial","funestus",NA,NA,0,0.5,"mean/house","rainy","HRI","insecticide curtains","Burkina Faso","7","7",NA,NA,10,8
+"1334","spatial","gambiae complex",NA,NA,2.45,8.07,"mean/night","rainy","HRI","ITN","The Gambia","6","11",NA,NA,NA,NA
+"1334","spatial","gambiae complex",NA,NA,6.86,9.44,"mean/night","rainy","HRI","ITN","The Gambia","6","11",NA,NA,NA,NA
+"1334","spatial","gambiae complex",NA,NA,3.98,6.47,"mean/night","rainy","HRI","ITN","The Gambia","6","11",NA,NA,NA,NA
+"1334","spatial","gambiae complex",NA,NA,6.38,9.96,"mean/night","rainy","WinExit","ITN","The Gambia","6","11",NA,NA,NA,NA
+"1334","spatial","gambiae complex",NA,NA,4.28,5.35,"mean/night","rainy","WinExit","ITN","The Gambia","6","11",NA,NA,NA,NA
+"1334","spatial","gambiae complex",NA,NA,1.48,2.42,"mean/night","rainy","WinExit","ITN","The Gambia","6","11",NA,NA,NA,NA
+"1404","spatial","gambiae complex",NA,NA,NA,NA,NA,"both","HRI","ITN","Kenya","3","1",NA,NA,NA,NA
+"1404","spatial","funestus",NA,NA,NA,NA,NA,"both","HRI","ITN","Kenya","3","1",NA,NA,NA,NA
+"1502","spatial","gambiae complex",NA,NA,0.1,0.42,"mean/house","dry","HRI","ITN","Kenya","7","10",NA,NA,30,30
+"1502","spatial","gambiae complex",NA,NA,0.22,4.42,"mean/house","dry","HRI","ITN","Kenya","7","10",NA,NA,30,30
+"1502","spatial","gambiae complex",NA,NA,0.15,9.32,"mean/house","dry","HRI","ITN","Kenya","7","10",NA,NA,30,30
+"1502","spatial","gambiae complex",NA,NA,0.05,2.95,"mean/house","dry","HRI","ITN","Kenya","7","10",NA,NA,30,30
+"1502","spatial","gambiae complex",NA,NA,0.08,51.31,"mean/house","dry","HRI","ITN","Kenya","7","10",NA,NA,30,30
+"1502","spatial","gambiae complex",NA,NA,0.13,5.08,"mean/house","dry","HRI","ITN","Kenya","7","10",NA,NA,30,30
+"1502","spatial","funestus",NA,NA,0.9,6.98,"mean/house","dry","HRI","ITN","Kenya","7","10",NA,NA,30,30
+"1502","spatial","funestus",NA,NA,0.53,35.57,"mean/house","dry","HRI","ITN","Kenya","7","10",NA,NA,30,30
+"1502","spatial","funestus",NA,NA,0.94,91.31,"mean/house","dry","HRI","ITN","Kenya","7","10",NA,NA,30,30
+"1502","spatial","funestus",NA,NA,0.57,9.46,"mean/house","dry","HRI","ITN","Kenya","7","10",NA,NA,30,30
+"1502","spatial","funestus",NA,NA,0,19.97,"mean/house","dry","HRI","ITN","Kenya","7","10",NA,NA,30,30
+"1502","spatial","funestus",NA,NA,1.26,38.96,"mean/house","dry","HRI","ITN","Kenya","7","10",NA,NA,30,30
+"1504","spatial","gambiae complex",NA,NA,470,737,"n","rainy","MBI & MBO","ITN","The Gambia","7","7",NA,NA,NA,NA
+"1504","spatial","gambiae complex",NA,NA,150,31,"n","rainy","MBI & MBO","ITN","The Gambia","7","7",NA,NA,NA,NA
+"1504","spatial","gambiae complex",NA,NA,210,84,"n","rainy","MBI & MBO","ITN","The Gambia","7","7",NA,NA,NA,NA
+"1504","spatial","gambiae complex",NA,NA,77,38,"n","rainy","MBI & MBO","ITN","The Gambia","7","7",NA,NA,NA,NA
+"1504","spatial","gambiae complex",NA,NA,44,57,"n","rainy","MBI & MBO","ITN","The Gambia","7","7",NA,NA,NA,NA
+"1504","spatial","gambiae complex",NA,NA,44,140,"n","rainy","MBI & MBO","ITN","The Gambia","7","7",NA,NA,NA,NA
+"1504","spatial","gambiae complex",NA,NA,112,155,"n","rainy","MBI & MBO","ITN","The Gambia","7","7",NA,NA,NA,NA
+"1504","spatial","gambiae complex",NA,NA,28,29,"n","rainy","MBI & MBO","ITN","The Gambia","7","7",NA,NA,NA,NA
+"1504","spatial","gambiae complex",NA,NA,13,15,"n","rainy","MBI & MBO","ITN","The Gambia","7","7",NA,NA,NA,NA
+"1504","spatial","gambiae complex",NA,NA,5,7,"n","rainy","MBI & MBO","ITN","The Gambia","7","7",NA,NA,NA,NA
+"1504","spatial","gambiae complex",NA,NA,27.2,114.96,"mean/room","rainy","HRI","ITN","The Gambia","7","7",NA,NA,NA,NA
+"1504","spatial","gambiae complex",NA,NA,16.8,26.49,"mean/room","rainy","HRI","ITN","The Gambia","7","7",NA,NA,NA,NA
+"1504","spatial","gambiae complex",NA,NA,5,17.96,"mean/room","rainy","HRI","ITN","The Gambia","7","7",NA,NA,NA,NA
+"1504","spatial","gambiae complex",NA,NA,2.63,8.2,"mean/room","rainy","HRI","ITN","The Gambia","7","7",NA,NA,NA,NA
+"1504","spatial","gambiae complex",NA,NA,4.26,6.09,"mean/room","rainy","HRI","ITN","The Gambia","7","7",NA,NA,NA,NA
+"1504","spatial","gambiae complex",NA,NA,1.98,9.5,"mean/room","rainy","HRI","ITN","The Gambia","7","7",NA,NA,NA,NA
+"1504","spatial","gambiae complex",NA,NA,8.45,18.26,"mean/room","rainy","HRI","ITN","The Gambia","7","7",NA,NA,NA,NA
+"1504","spatial","gambiae complex",NA,NA,2.1,7.7,"mean/room","rainy","HRI","ITN","The Gambia","7","7",NA,NA,NA,NA
+"1504","spatial","gambiae complex",NA,NA,1.99,1.05,"mean/room","rainy","HRI","ITN","The Gambia","7","7",NA,NA,NA,NA
+"1504","spatial","gambiae complex",NA,NA,2.57,2.46,"mean/room","rainy","HRI","ITN","The Gambia","7","7",NA,NA,NA,NA
+"1573","spatial","gambiae complex",NA,NA,221,326,"n","nd","WinExit","insecticide curtains","Kenya","?","?",NA,NA,NA,NA
+"1573","spatial","funestus",NA,NA,124,84,"n","nd","WinExit","insecticide curtains","Kenya","?","?",NA,NA,NA,NA
+"1573","spatial","gambiae complex",NA,NA,126,1409,"n","nd","HRI","insecticide curtains","Kenya","?","?",NA,NA,NA,NA
+"1573","spatial","funestus",NA,NA,23,367,"n","nd","HRI","insecticide curtains","Kenya","?","?",NA,NA,NA,NA
+"5763","spatial","gambiae complex",NA,NA,3,11,"n","rainy",NA,"ITN","HRI, LT, RO, pit","10","5",NA,NA,NA,NA
+"5763","spatial","gambiae complex",NA,NA,1,11,"n","rainy",NA,"ITN & IRS","HRI, LT, RO, pit","10","5",NA,NA,NA,NA
+"5816","spatial","gambiae ss (M)",NA,NA,724,1117,"n","rainy","MB","IRS","Benin","4","7",NA,NA,NA,NA
+"5822","spatial","gambiae complex",388,88,0,132,"n","rainy","MB/WinExit/HRI","IRS","Benin","5","7",NA,NA,NA,NA
+"5822","spatial","gambiae complex",90,404,216,384,"n","rainy","MB/WinExit/HRI","ITN","Benin","5","7",NA,NA,NA,NA
+"5822","spatial","gambiae complex",250,45,0,68,"n","rainy","HRI","IRS","Benin","5","7",NA,NA,NA,NA
+"5822","spatial","gambiae complex",55,216,74,200,"n","rainy","HRI","ITN","Benin","5","7",NA,NA,NA,NA
+"5924","spatial","gambiae complex",NA,NA,206,609,"n","rainy","HRI","ITN","Gambia","8","11",NA,NA,NA,NA
+"5924","spatial","gambiae complex",NA,NA,2794,4498,"n","rainy","winexit","ITN","Gambia","8","11",NA,NA,NA,NA
+"6046","spatial","gambiae complex",NA,NA,65,37,"mean density/light trap/night","dry","ILT","ITN","Tanzania","6","6",NA,NA,NA,NA
+"6046","spatial","gambiae complex",NA,NA,22,7,"mean density/light trap/night","dry","ILT","ITN","Tanzania","7","7",NA,NA,NA,NA
+"6046","spatial","gambiae complex",NA,NA,19,3,"mean density/light trap/night","dry","ILT","ITN","Tanzania","8","8",NA,NA,NA,NA
+"6046","spatial","gambiae complex",NA,NA,18,4,"mean density/light trap/night","dry","ILT","ITN","Tanzania","9","9",NA,NA,NA,NA
+"6046","spatial","funestus",NA,NA,17,17,"mean density/light trap/night","dry","ILT","ITN","Tanzania","6","6",NA,NA,NA,NA
+"6046","spatial","funestus",NA,NA,9,4,"mean density/light trap/night","dry","ILT","ITN","Tanzania","7","7",NA,NA,NA,NA
+"6046","spatial","funestus",NA,NA,9,7,"mean density/light trap/night","dry","ILT","ITN","Tanzania","8","8",NA,NA,NA,NA
+"6046","spatial","funestus",NA,NA,7,6,"mean density/light trap/night","dry","ILT","ITN","Tanzania","9","9",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,97,553,NA,NA,"MBI/MBO/HRI/RO/RO (pit)","IRS","Madagascar","3","2",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,96,553,NA,NA,"MBI/MBO/HRI/RO/RO (pit)","IRS","Madagascar","3","2",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,6,2,"count/month","rainy","MBI","IRS","Madagascar","3","3",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,3,NA,"count/month","rainy","MBI","IRS","Madagascar","4","4",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,NA,1,"count/month","dry","MBI","IRS","Madagascar","5","5",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,NA,1,"count/month","dry","MBI","IRS","Madagascar","6","6",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,NA,2,"count/month","dry","MBI","IRS","Madagascar","7","7",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,NA,1,"count/month","dry","MBI","IRS","Madagascar","8","8",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,NA,2,"count/month","dry","MBI","IRS","Madagascar","9","9",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,3,4,"count/month","dry","MBI","IRS","Madagascar","10","10",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,15,3,"count/month","rainy","MBI","IRS","Madagascar","11","11",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,5,2,"count/month","rainy","MBI","IRS","Madagascar","12","12",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,17,7,"count/month","rainy","MBI","IRS","Madagascar","1","1",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,20,1,"count/month","rainy","MBI","IRS","Madagascar","2","2",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,2,NA,"count/month","rainy","MBI","IRS","Madagascar","3","3",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,5,1,"count/month","rainy","MBI","IRS","Madagascar","4","4",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,3,NA,"count/month","dry","MBI","IRS","Madagascar","5","5",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,NA,NA,"count/month","dry","MBI","IRS","Madagascar","6","6",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,NA,NA,"count/month","dry","MBI","IRS","Madagascar","7","7",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,NA,NA,"count/month","dry","MBI","IRS","Madagascar","8","8",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,4,NA,"count/month","dry","MBI","IRS","Madagascar","9","9",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,NA,NA,"count/month","dry","MBI","IRS","Madagascar","10","10",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,NA,NA,"count/month","rainy","MBI","IRS","Madagascar","11","11",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,1,3,"count/month","rainy","MBI","IRS","Madagascar","12","12",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,10,1,"count/month","rainy","MBI","IRS","Madagascar","1","1",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,1,2,"count/month","rainy","MBI","IRS","Madagascar","2","2",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,15,2,"count/month","rainy","MBO","IRS","Madagascar","3","3",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,18,3,"count/month","rainy","MBO","IRS","Madagascar","4","4",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,NA,2,"count/month","dry","MBO","IRS","Madagascar","5","5",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,NA,4,"count/month","dry","MBO","IRS","Madagascar","6","6",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,NA,7,"count/month","dry","MBO","IRS","Madagascar","7","7",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,NA,18,"count/month","dry","MBO","IRS","Madagascar","8","8",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,NA,6,"count/month","dry","MBO","IRS","Madagascar","9","9",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,17,1,"count/month","dry","MBO","IRS","Madagascar","10","10",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,59,7,"count/month","rainy","MBO","IRS","Madagascar","11","11",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,55,9,"count/month","rainy","MBO","IRS","Madagascar","12","12",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,62,47,"count/month","rainy","MBO","IRS","Madagascar","1","1",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,59,7,"count/month","rainy","MBO","IRS","Madagascar","2","2",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,15,11,"count/month","rainy","MBO","IRS","Madagascar","3","3",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,21,1,"count/month","rainy","MBO","IRS","Madagascar","4","4",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,10,5,"count/month","dry","MBO","IRS","Madagascar","5","5",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,1,NA,"count/month","dry","MBO","IRS","Madagascar","6","6",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,1,1,"count/month","dry","MBO","IRS","Madagascar","7","7",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,1,NA,"count/month","dry","MBO","IRS","Madagascar","8","8",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,19,3,"count/month","dry","MBO","IRS","Madagascar","9","9",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,NA,NA,"count/month","dry","MBO","IRS","Madagascar","10","10",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,12,NA,"count/month","rainy","MBO","IRS","Madagascar","11","11",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,20,1,"count/month","rainy","MBO","IRS","Madagascar","12","12",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,97,9,"count/month","rainy","MBO","IRS","Madagascar","1","1",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,19,31,"count/month","rainy","MBO","IRS","Madagascar","2","2",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,NA,1,"count/month","rainy","HRI","IRS","Madagascar","3","3",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,NA,2,"count/month","rainy","HRI","IRS","Madagascar","4","4",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,NA,2,"count/month","dry","HRI","IRS","Madagascar","5","5",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,NA,NA,"count/month","dry","HRI","IRS","Madagascar","6","6",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,NA,1,"count/month","dry","HRI","IRS","Madagascar","7","7",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,NA,3,"count/month","dry","HRI","IRS","Madagascar","8","8",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,NA,6,"count/month","dry","HRI","IRS","Madagascar","9","9",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,3,2,"count/month","dry","HRI","IRS","Madagascar","10","10",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,3,1,"count/month","rainy","HRI","IRS","Madagascar","11","11",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,2,1,"count/month","rainy","HRI","IRS","Madagascar","12","12",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,2,1,"count/month","rainy","HRI","IRS","Madagascar","1","1",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,1,2,"count/month","rainy","HRI","IRS","Madagascar","2","2",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,NA,NA,"count/month","rainy","HRI","IRS","Madagascar","3","3",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,NA,NA,"count/month","rainy","HRI","IRS","Madagascar","4","4",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,NA,2,"count/month","dry","HRI","IRS","Madagascar","5","5",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,NA,NA,"count/month","dry","HRI","IRS","Madagascar","6","6",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,NA,1,"count/month","dry","HRI","IRS","Madagascar","7","7",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,4,NA,"count/month","dry","HRI","IRS","Madagascar","8","8",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,3,7,"count/month","dry","HRI","IRS","Madagascar","9","9",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,NA,NA,"count/month","dry","HRI","IRS","Madagascar","10","10",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,1,1,"count/month","rainy","HRI","IRS","Madagascar","11","11",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,1,4,"count/month","rainy","HRI","IRS","Madagascar","12","12",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,3,NA,"count/month","rainy","HRI","IRS","Madagascar","1","1",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,2,1,"count/month","rainy","HRI","IRS","Madagascar","2","2",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,19,9,"count/month","rainy","RO","IRS","Madagascar","3","3",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,54,4,"count/month","rainy","RO","IRS","Madagascar","4","4",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,NA,10,"count/month","dry","RO","IRS","Madagascar","5","5",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,NA,7,"count/month","dry","RO","IRS","Madagascar","6","6",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,NA,6,"count/month","dry","RO","IRS","Madagascar","7","7",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,NA,74,"count/month","dry","RO","IRS","Madagascar","8","8",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,NA,39,"count/month","dry","RO","IRS","Madagascar","9","9",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,114,20,"count/month","dry","RO","IRS","Madagascar","10","10",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,82,33,"count/month","rainy","RO","IRS","Madagascar","11","11",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,86,49,"count/month","rainy","RO","IRS","Madagascar","12","12",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,119,56,"count/month","rainy","RO","IRS","Madagascar","1","1",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,25,8,"count/month","rainy","RO","IRS","Madagascar","2","2",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,41,1,"count/month","rainy","RO","IRS","Madagascar","3","3",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,214,6,"count/month","rainy","RO","IRS","Madagascar","4","4",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,61,5,"count/month","dry","RO","IRS","Madagascar","5","5",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,17,10,"count/month","dry","RO","IRS","Madagascar","6","6",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,27,11,"count/month","dry","RO","IRS","Madagascar","7","7",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,130,9,"count/month","dry","RO","IRS","Madagascar","8","8",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,87,28,"count/month","dry","RO","IRS","Madagascar","9","9",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,NA,NA,"count/month","dry","RO","IRS","Madagascar","10","10",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,213,34,"count/month","rainy","RO","IRS","Madagascar","11","11",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,120,39,"count/month","rainy","RO","IRS","Madagascar","12","12",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,123,13,"count/month","rainy","RO","IRS","Madagascar","1","1",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,184,18,"count/month","rainy","RO","IRS","Madagascar","2","2",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,4,2,"count/month","rainy","MBI","IRS","Madagascar","3","3",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,NA,NA,"count/month","rainy","MBI","IRS","Madagascar","4","4",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,1,1,"count/month","dry","MBI","IRS","Madagascar","5","5",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,NA,1,"count/month","dry","MBI","IRS","Madagascar","6","6",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,NA,2,"count/month","dry","MBI","IRS","Madagascar","7","7",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,9,1,"count/month","dry","MBI","IRS","Madagascar","8","8",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,14,2,"count/month","dry","MBI","IRS","Madagascar","9","9",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,3,4,"count/month","dry","MBI","IRS","Madagascar","10","10",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,NA,3,"count/month","rainy","MBI","IRS","Madagascar","11","11",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,1,2,"count/month","rainy","MBI","IRS","Madagascar","12","12",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,1,7,"count/month","rainy","MBI","IRS","Madagascar","1","1",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,NA,1,"count/month","rainy","MBI","IRS","Madagascar","2","2",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,NA,NA,"count/month","rainy","MBI","IRS","Madagascar","3","3",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,NA,1,"count/month","rainy","MBI","IRS","Madagascar","4","4",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,3,NA,"count/month","dry","MBI","IRS","Madagascar","5","5",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,2,NA,"count/month","dry","MBI","IRS","Madagascar","6","6",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,1,NA,"count/month","dry","MBI","IRS","Madagascar","7","7",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,NA,NA,"count/month","dry","MBI","IRS","Madagascar","8","8",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,2,NA,"count/month","dry","MBI","IRS","Madagascar","9","9",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,NA,NA,"count/month","dry","MBI","IRS","Madagascar","10","10",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,NA,NA,"count/month","rainy","MBI","IRS","Madagascar","11","11",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,2,3,"count/month","rainy","MBI","IRS","Madagascar","12","12",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,1,1,"count/month","rainy","MBI","IRS","Madagascar","1","1",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,1,2,"count/month","rainy","MBI","IRS","Madagascar","2","2",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,2,2,"count/month","rainy","MBO","IRS","Madagascar","3","3",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,2,3,"count/month","rainy","MBO","IRS","Madagascar","4","4",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,3,2,"count/month","dry","MBO","IRS","Madagascar","5","5",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,4,4,"count/month","dry","MBO","IRS","Madagascar","6","6",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,4,7,"count/month","dry","MBO","IRS","Madagascar","7","7",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,18,18,"count/month","dry","MBO","IRS","Madagascar","8","8",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,29,6,"count/month","dry","MBO","IRS","Madagascar","9","9",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,1,1,"count/month","dry","MBO","IRS","Madagascar","10","10",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,1,7,"count/month","rainy","MBO","IRS","Madagascar","11","11",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,3,9,"count/month","rainy","MBO","IRS","Madagascar","12","12",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,2,47,"count/month","rainy","MBO","IRS","Madagascar","1","1",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,5,7,"count/month","rainy","MBO","IRS","Madagascar","2","2",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,2,11,"count/month","rainy","MBO","IRS","Madagascar","3","3",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,NA,1,"count/month","rainy","MBO","IRS","Madagascar","4","4",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,13,5,"count/month","dry","MBO","IRS","Madagascar","5","5",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,8,NA,"count/month","dry","MBO","IRS","Madagascar","6","6",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,4,1,"count/month","dry","MBO","IRS","Madagascar","7","7",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,8,NA,"count/month","dry","MBO","IRS","Madagascar","8","8",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,30,3,"count/month","dry","MBO","IRS","Madagascar","9","9",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,NA,NA,"count/month","dry","MBO","IRS","Madagascar","10","10",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,NA,NA,"count/month","rainy","MBO","IRS","Madagascar","11","11",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,5,1,"count/month","rainy","MBO","IRS","Madagascar","12","12",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,9,9,"count/month","rainy","MBO","IRS","Madagascar","1","1",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,7,31,"count/month","rainy","MBO","IRS","Madagascar","2","2",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,NA,1,"count/month","rainy","HRI","IRS","Madagascar","3","3",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,NA,2,"count/month","rainy","HRI","IRS","Madagascar","4","4",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,1,2,"count/month","dry","HRI","IRS","Madagascar","5","5",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,1,NA,"count/month","dry","HRI","IRS","Madagascar","6","6",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,29,1,"count/month","dry","HRI","IRS","Madagascar","7","7",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,42,3,"count/month","dry","HRI","IRS","Madagascar","8","8",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,14,6,"count/month","dry","HRI","IRS","Madagascar","9","9",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,14,2,"count/month","dry","HRI","IRS","Madagascar","10","10",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,2,1,"count/month","rainy","HRI","IRS","Madagascar","11","11",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,NA,1,"count/month","rainy","HRI","IRS","Madagascar","12","12",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,145,1,"count/month","rainy","HRI","IRS","Madagascar","1","1",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,NA,2,"count/month","rainy","HRI","IRS","Madagascar","2","2",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,NA,NA,"count/month","rainy","HRI","IRS","Madagascar","3","3",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,1,NA,"count/month","rainy","HRI","IRS","Madagascar","4","4",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,1,2,"count/month","dry","HRI","IRS","Madagascar","5","5",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,1,NA,"count/month","dry","HRI","IRS","Madagascar","6","6",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,32,1,"count/month","dry","HRI","IRS","Madagascar","7","7",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,11,NA,"count/month","dry","HRI","IRS","Madagascar","8","8",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,20,7,"count/month","dry","HRI","IRS","Madagascar","9","9",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,NA,NA,"count/month","dry","HRI","IRS","Madagascar","10","10",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,1,1,"count/month","rainy","HRI","IRS","Madagascar","11","11",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,1,4,"count/month","rainy","HRI","IRS","Madagascar","12","12",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,4,NA,"count/month","rainy","HRI","IRS","Madagascar","1","1",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,2,1,"count/month","rainy","HRI","IRS","Madagascar","2","2",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,22,9,"count/month","rainy","RO","IRS","Madagascar","3","3",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,36,4,"count/month","rainy","RO","IRS","Madagascar","4","4",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,70,10,"count/month","dry","RO","IRS","Madagascar","5","5",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,60,7,"count/month","dry","RO","IRS","Madagascar","6","6",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,204,6,"count/month","dry","RO","IRS","Madagascar","7","7",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,137,74,"count/month","dry","RO","IRS","Madagascar","8","8",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,84,39,"count/month","dry","RO","IRS","Madagascar","9","9",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,29,20,"count/month","dry","RO","IRS","Madagascar","10","10",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,20,33,"count/month","rainy","RO","IRS","Madagascar","11","11",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,83,49,"count/month","rainy","RO","IRS","Madagascar","12","12",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,85,56,"count/month","rainy","RO","IRS","Madagascar","1","1",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,22,8,"count/month","rainy","RO","IRS","Madagascar","2","2",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,NA,1,"count/month","rainy","RO","IRS","Madagascar","3","3",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,179,6,"count/month","rainy","RO","IRS","Madagascar","4","4",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,33,5,"count/month","dry","RO","IRS","Madagascar","5","5",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,55,10,"count/month","dry","RO","IRS","Madagascar","6","6",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,130,11,"count/month","dry","RO","IRS","Madagascar","7","7",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,130,9,"count/month","dry","RO","IRS","Madagascar","8","8",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,141,28,"count/month","dry","RO","IRS","Madagascar","9","9",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,NA,NA,"count/month","dry","RO","IRS","Madagascar","10","10",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,30,34,"count/month","rainy","RO","IRS","Madagascar","11","11",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,139,39,"count/month","rainy","RO","IRS","Madagascar","12","12",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,36,13,"count/month","rainy","RO","IRS","Madagascar","1","1",NA,NA,NA,NA
+"6168","spatial","arabiensis",NA,NA,78,18,"count/month","rainy","RO","IRS","Madagascar","2","2",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,23,64,"count/month","rainy","MBI","IRS","Madagascar","3","3",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,4,215,"count/month","rainy","MBI","IRS","Madagascar","4","4",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,47,"count/month","dry","MBI","IRS","Madagascar","5","5",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,62,"count/month","dry","MBI","IRS","Madagascar","6","6",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,13,"count/month","dry","MBI","IRS","Madagascar","7","7",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,5,"count/month","dry","MBI","IRS","Madagascar","8","8",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,NA,"count/month","dry","MBI","IRS","Madagascar","9","9",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,1,"count/month","dry","MBI","IRS","Madagascar","10","10",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,1,10,"count/month","rainy","MBI","IRS","Madagascar","11","11",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,1,8,"count/month","rainy","MBI","IRS","Madagascar","12","12",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,24,"count/month","rainy","MBI","IRS","Madagascar","1","1",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,2,18,"count/month","rainy","MBI","IRS","Madagascar","2","2",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,35,"count/month","rainy","MBI","IRS","Madagascar","3","3",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,1,207,"count/month","rainy","MBI","IRS","Madagascar","4","4",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,3,76,"count/month","dry","MBI","IRS","Madagascar","5","5",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,3,74,"count/month","dry","MBI","IRS","Madagascar","6","6",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,25,"count/month","dry","MBI","IRS","Madagascar","7","7",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,10,"count/month","dry","MBI","IRS","Madagascar","8","8",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,2,8,"count/month","dry","MBI","IRS","Madagascar","9","9",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,NA,"count/month","dry","MBI","IRS","Madagascar","10","10",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,6,"count/month","rainy","MBI","IRS","Madagascar","11","11",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,26,"count/month","rainy","MBI","IRS","Madagascar","12","12",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,2,"count/month","rainy","MBI","IRS","Madagascar","1","1",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,1,6,"count/month","rainy","MBI","IRS","Madagascar","2","2",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,36,152,"count/month","rainy","MBO","IRS","Madagascar","3","3",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,13,177,"count/month","rainy","MBO","IRS","Madagascar","4","4",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,222,"count/month","dry","MBO","IRS","Madagascar","5","5",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,230,"count/month","dry","MBO","IRS","Madagascar","6","6",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,34,"count/month","dry","MBO","IRS","Madagascar","7","7",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,30,"count/month","dry","MBO","IRS","Madagascar","8","8",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,6,"count/month","dry","MBO","IRS","Madagascar","9","9",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,1,3,"count/month","dry","MBO","IRS","Madagascar","10","10",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,2,33,"count/month","rainy","MBO","IRS","Madagascar","11","11",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,4,30,"count/month","rainy","MBO","IRS","Madagascar","12","12",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,5,96,"count/month","rainy","MBO","IRS","Madagascar","1","1",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,5,63,"count/month","rainy","MBO","IRS","Madagascar","2","2",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,4,191,"count/month","rainy","MBO","IRS","Madagascar","3","3",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,7,248,"count/month","rainy","MBO","IRS","Madagascar","4","4",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,5,150,"count/month","dry","MBO","IRS","Madagascar","5","5",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,54,"count/month","dry","MBO","IRS","Madagascar","6","6",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,44,"count/month","dry","MBO","IRS","Madagascar","7","7",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,24,"count/month","dry","MBO","IRS","Madagascar","8","8",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,11,"count/month","dry","MBO","IRS","Madagascar","9","9",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,NA,"count/month","dry","MBO","IRS","Madagascar","10","10",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,1,34,"count/month","rainy","MBO","IRS","Madagascar","11","11",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,1,56,"count/month","rainy","MBO","IRS","Madagascar","12","12",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,2,39,"count/month","rainy","MBO","IRS","Madagascar","1","1",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,7,35,"count/month","rainy","MBO","IRS","Madagascar","2","2",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,79,166,"count/month","rainy","HRI","IRS","Madagascar","3","3",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,124,"count/month","rainy","HRI","IRS","Madagascar","4","4",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,288,"count/month","dry","HRI","IRS","Madagascar","5","5",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,86,"count/month","dry","HRI","IRS","Madagascar","6","6",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,32,"count/month","dry","HRI","IRS","Madagascar","7","7",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,9,"count/month","dry","HRI","IRS","Madagascar","8","8",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,8,"count/month","dry","HRI","IRS","Madagascar","9","9",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,3,"count/month","dry","HRI","IRS","Madagascar","10","10",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,7,"count/month","rainy","HRI","IRS","Madagascar","11","11",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,1,24,"count/month","rainy","HRI","IRS","Madagascar","12","12",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,51,"count/month","rainy","HRI","IRS","Madagascar","1","1",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,17,"count/month","rainy","HRI","IRS","Madagascar","2","2",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,15,"count/month","rainy","HRI","IRS","Madagascar","3","3",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,131,"count/month","rainy","HRI","IRS","Madagascar","4","4",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,3,117,"count/month","dry","HRI","IRS","Madagascar","5","5",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,41,"count/month","dry","HRI","IRS","Madagascar","6","6",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,103,"count/month","dry","HRI","IRS","Madagascar","7","7",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,1,9,"count/month","dry","HRI","IRS","Madagascar","8","8",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,1,2,"count/month","dry","HRI","IRS","Madagascar","9","9",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,NA,"count/month","dry","HRI","IRS","Madagascar","10","10",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,19,"count/month","rainy","HRI","IRS","Madagascar","11","11",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,1,210,"count/month","rainy","HRI","IRS","Madagascar","12","12",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,67,"count/month","rainy","HRI","IRS","Madagascar","1","1",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,2,28,"count/month","rainy","HRI","IRS","Madagascar","2","2",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,94,161,"count/month","rainy","RO","IRS","Madagascar","3","3",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,37,193,"count/month","rainy","RO","IRS","Madagascar","4","4",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,441,"count/month","dry","RO","IRS","Madagascar","5","5",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,174,"count/month","dry","RO","IRS","Madagascar","6","6",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,62,"count/month","dry","RO","IRS","Madagascar","7","7",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,49,"count/month","dry","RO","IRS","Madagascar","8","8",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,11,"count/month","dry","RO","IRS","Madagascar","9","9",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,8,3,"count/month","dry","RO","IRS","Madagascar","10","10",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,9,11,"count/month","rainy","RO","IRS","Madagascar","11","11",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,5,75,"count/month","rainy","RO","IRS","Madagascar","12","12",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,10,41,"count/month","rainy","RO","IRS","Madagascar","1","1",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,7,35,"count/month","rainy","RO","IRS","Madagascar","2","2",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,3,60,"count/month","rainy","RO","IRS","Madagascar","3","3",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,60,216,"count/month","rainy","RO","IRS","Madagascar","4","4",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,84,108,"count/month","dry","RO","IRS","Madagascar","5","5",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,12,88,"count/month","dry","RO","IRS","Madagascar","6","6",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,8,58,"count/month","dry","RO","IRS","Madagascar","7","7",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,18,39,"count/month","dry","RO","IRS","Madagascar","8","8",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,11,15,"count/month","dry","RO","IRS","Madagascar","9","9",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,NA,"count/month","dry","RO","IRS","Madagascar","10","10",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,12,21,"count/month","rainy","RO","IRS","Madagascar","11","11",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,8,61,"count/month","rainy","RO","IRS","Madagascar","12","12",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,6,33,"count/month","rainy","RO","IRS","Madagascar","1","1",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,13,27,"count/month","rainy","RO","IRS","Madagascar","2","2",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,1,64,"count/month","rainy","MBI","IRS","Madagascar","3","3",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,3,215,"count/month","rainy","MBI","IRS","Madagascar","4","4",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,1,47,"count/month","dry","MBI","IRS","Madagascar","5","5",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,1,62,"count/month","dry","MBI","IRS","Madagascar","6","6",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,13,"count/month","dry","MBI","IRS","Madagascar","7","7",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,5,"count/month","dry","MBI","IRS","Madagascar","8","8",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,NA,"count/month","dry","MBI","IRS","Madagascar","9","9",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,1,"count/month","dry","MBI","IRS","Madagascar","10","10",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,10,"count/month","rainy","MBI","IRS","Madagascar","11","11",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,8,"count/month","rainy","MBI","IRS","Madagascar","12","12",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,1,24,"count/month","rainy","MBI","IRS","Madagascar","1","1",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,18,"count/month","rainy","MBI","IRS","Madagascar","2","2",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,35,"count/month","rainy","MBI","IRS","Madagascar","3","3",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,207,"count/month","rainy","MBI","IRS","Madagascar","4","4",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,1,76,"count/month","dry","MBI","IRS","Madagascar","5","5",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,74,"count/month","dry","MBI","IRS","Madagascar","6","6",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,1,25,"count/month","dry","MBI","IRS","Madagascar","7","7",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,10,"count/month","dry","MBI","IRS","Madagascar","8","8",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,1,8,"count/month","dry","MBI","IRS","Madagascar","9","9",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,NA,"count/month","dry","MBI","IRS","Madagascar","10","10",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,6,"count/month","rainy","MBI","IRS","Madagascar","11","11",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,26,"count/month","rainy","MBI","IRS","Madagascar","12","12",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,2,"count/month","rainy","MBI","IRS","Madagascar","1","1",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,3,6,"count/month","rainy","MBI","IRS","Madagascar","2","2",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,4,152,"count/month","rainy","MBO","IRS","Madagascar","3","3",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,2,177,"count/month","rainy","MBO","IRS","Madagascar","4","4",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,3,222,"count/month","dry","MBO","IRS","Madagascar","5","5",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,3,230,"count/month","dry","MBO","IRS","Madagascar","6","6",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,1,34,"count/month","dry","MBO","IRS","Madagascar","7","7",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,30,"count/month","dry","MBO","IRS","Madagascar","8","8",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,6,"count/month","dry","MBO","IRS","Madagascar","9","9",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,3,"count/month","dry","MBO","IRS","Madagascar","10","10",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,33,"count/month","rainy","MBO","IRS","Madagascar","11","11",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,30,"count/month","rainy","MBO","IRS","Madagascar","12","12",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,3,96,"count/month","rainy","MBO","IRS","Madagascar","1","1",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,1,63,"count/month","rainy","MBO","IRS","Madagascar","2","2",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,191,"count/month","rainy","MBO","IRS","Madagascar","3","3",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,4,248,"count/month","rainy","MBO","IRS","Madagascar","4","4",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,3,150,"count/month","dry","MBO","IRS","Madagascar","5","5",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,54,"count/month","dry","MBO","IRS","Madagascar","6","6",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,44,"count/month","dry","MBO","IRS","Madagascar","7","7",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,24,"count/month","dry","MBO","IRS","Madagascar","8","8",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,11,"count/month","dry","MBO","IRS","Madagascar","9","9",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,NA,"count/month","dry","MBO","IRS","Madagascar","10","10",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,34,"count/month","rainy","MBO","IRS","Madagascar","11","11",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,4,56,"count/month","rainy","MBO","IRS","Madagascar","12","12",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,6,39,"count/month","rainy","MBO","IRS","Madagascar","1","1",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,2,35,"count/month","rainy","MBO","IRS","Madagascar","2","2",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,166,"count/month","rainy","HRI","IRS","Madagascar","3","3",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,3,124,"count/month","rainy","HRI","IRS","Madagascar","4","4",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,3,288,"count/month","dry","HRI","IRS","Madagascar","5","5",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,86,"count/month","dry","HRI","IRS","Madagascar","6","6",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,5,32,"count/month","dry","HRI","IRS","Madagascar","7","7",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,2,9,"count/month","dry","HRI","IRS","Madagascar","8","8",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,2,8,"count/month","dry","HRI","IRS","Madagascar","9","9",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,4,3,"count/month","dry","HRI","IRS","Madagascar","10","10",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,7,"count/month","rainy","HRI","IRS","Madagascar","11","11",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,24,"count/month","rainy","HRI","IRS","Madagascar","12","12",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,6,51,"count/month","rainy","HRI","IRS","Madagascar","1","1",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,17,"count/month","rainy","HRI","IRS","Madagascar","2","2",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,15,"count/month","rainy","HRI","IRS","Madagascar","3","3",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,4,131,"count/month","rainy","HRI","IRS","Madagascar","4","4",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,7,117,"count/month","dry","HRI","IRS","Madagascar","5","5",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,41,"count/month","dry","HRI","IRS","Madagascar","6","6",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,2,103,"count/month","dry","HRI","IRS","Madagascar","7","7",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,9,"count/month","dry","HRI","IRS","Madagascar","8","8",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,4,2,"count/month","dry","HRI","IRS","Madagascar","9","9",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,NA,"count/month","dry","HRI","IRS","Madagascar","10","10",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,1,19,"count/month","rainy","HRI","IRS","Madagascar","11","11",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,1,210,"count/month","rainy","HRI","IRS","Madagascar","12","12",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,1,67,"count/month","rainy","HRI","IRS","Madagascar","1","1",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,2,28,"count/month","rainy","HRI","IRS","Madagascar","2","2",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,38,161,"count/month","rainy","RO","IRS","Madagascar","3","3",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,81,193,"count/month","rainy","RO","IRS","Madagascar","4","4",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,202,441,"count/month","dry","RO","IRS","Madagascar","5","5",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,27,174,"count/month","dry","RO","IRS","Madagascar","6","6",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,20,62,"count/month","dry","RO","IRS","Madagascar","7","7",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,3,49,"count/month","dry","RO","IRS","Madagascar","8","8",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,2,11,"count/month","dry","RO","IRS","Madagascar","9","9",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,6,3,"count/month","dry","RO","IRS","Madagascar","10","10",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,3,11,"count/month","rainy","RO","IRS","Madagascar","11","11",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,9,75,"count/month","rainy","RO","IRS","Madagascar","12","12",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,11,41,"count/month","rainy","RO","IRS","Madagascar","1","1",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,15,35,"count/month","rainy","RO","IRS","Madagascar","2","2",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,60,"count/month","rainy","RO","IRS","Madagascar","3","3",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,68,216,"count/month","rainy","RO","IRS","Madagascar","4","4",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,17,108,"count/month","dry","RO","IRS","Madagascar","5","5",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,88,"count/month","dry","RO","IRS","Madagascar","6","6",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,7,58,"count/month","dry","RO","IRS","Madagascar","7","7",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,39,"count/month","dry","RO","IRS","Madagascar","8","8",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,8,15,"count/month","dry","RO","IRS","Madagascar","9","9",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,NA,NA,"count/month","dry","RO","IRS","Madagascar","10","10",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,9,21,"count/month","rainy","RO","IRS","Madagascar","11","11",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,5,61,"count/month","rainy","RO","IRS","Madagascar","12","12",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,13,33,"count/month","rainy","RO","IRS","Madagascar","1","1",NA,NA,NA,NA
+"6168","spatial","funestus",NA,NA,53,27,"count/month","rainy","RO","IRS","Madagascar","2","2",NA,NA,NA,NA
+"(Odhiambo et al)","spatial","arabiensis",NA,NA,66,177,"n",NA,"HRI","ITN","Kenya",NA,NA,NA,NA,NA,NA
+"(Odhiambo et al)","spatial","funestus",NA,NA,75,489,"n",NA,"HRI","ITN","Kenya",NA,NA,NA,NA,NA,NA
+"Awolola et al","spatial","gambiae",NA,NA,3018,7182,"n","both","HRI and WinExit","ITN","Nigeria","4","3",NA,NA,NA,NA
+"Awolola et al","spatial","gambiae",NA,NA,573,7182,"n","both","HRI and WinExit","ITN","Nigeria",NA,NA,NA,NA,NA,NA
