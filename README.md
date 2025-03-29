@@ -170,44 +170,39 @@ sion to accommodate response variables that follow different distributions, incl
 distribution for count data. The motivation behind GLMs was to allow for more flexible modeling
 of various types of data while maintaining a unified approach to statistical modeling (McCullagh,
 1999).
-  
-   A key advantage of GLMs is their ability to model the relationship between dependent and
+
+  A key advantage of GLMs is their ability to model the relationship between dependent and
 independent variables through a linear predictor while allowing for the response variable to follow
 a distribution other than normal. This flexibility is particularly important for count data, which
 often exhibit properties such as overdispersion, making the Poisson distribution an appropriate
 choice (Radam and Hameed, 2023).
 The general structure of a GLM can be expressed as:
 
-$$
-g \left( E(Y) \right) = \alpha + \beta_1 x_1 + \beta_2 x_2 + \cdots + \beta_p x_p
-$$
 
-   where $Y$ is the dependent variable (i.e., the count we are trying to predict), $E(Y)$ denotes the expected value, $g(Y)$ is the link function that relates the expected value to the linear predictor, and $x_1, \ldots, x_p$ are the independent variables.
+  $$
+  g \left( E(Y) \right) = \alpha + \beta_1 x_1 + \beta_2 x_2 + \cdots + \beta_p x_p
+  $$
 
-   For a Poisson GLM, the link function typically used is the logarithm, which models the log of the expected count as a linear combination of the predictors:
-   
-$$
-\log(E(Y)) = \alpha + \beta_1 x_1 + \beta_2 x_2 + \cdots + \beta_p x_p
-$$
+  where $Y$ is the dependent variable (i.e., the count we are trying to predict), $E(Y)$ denotes the expected value, $g(Y)$ is the link function that relates the expected value to the linear predictor, and $x_1, \ldots, x_p$ are the independent variables.
 
-   This formulation allows the expected counts to be expressed in terms of the independent variables, thereby providing a direct interpretation of the effects of predictors on the response variable. The coefficients $\beta_1, \ldots, \beta_p$ indicate the change in the log count of the response variable for a one-unit change in the corresponding predictor (Hilbe, 2009).
+  For a Poisson GLM, the link function typically used is the logarithm, which models the log of the expected count as a linear combination of the predictors:
 
+  $$
+  \log(E(Y)) = \alpha + \beta_1 x_1 + \beta_2 x_2 + \cdots + \beta_p x_p
+  $$
 
-  
-  
+  This formulation allows the expected counts to be expressed in terms of the independent variables, thereby providing a direct interpretation of the effects of predictors on the response variable. The coefficients $\beta_1, \ldots, \beta_p$ indicate the change in the log count of the response variable for a one-unit change in the corresponding predictor (Hilbe, 2009).
+
 - **Model Components.**
-  
 
-$$
-\begin{align*}
-\log(COUNT_{ij}) &= \text{offset}(\log(NSAMP_{ij})) + u_{ID_i} + v_{SAMPLING_j} + w_{PDF_k}^{(SPECIES)} +\\
-&\beta_1 \cdot POST\_INTERVENTION_{ij} + \beta_2 \cdot (SPECIES_{ij} \cdot POST\_INTERVENTION_{ij})  
-\end{align*}
-$$
+  $$
+  \begin{align*}
+  \log(COUNT_{ij}) &= \text{offset}(\log(NSAMP_{ij})) + u_{ID_i} + v_{SAMPLING_j} + w_{PDF_k}^{(SPECIES)} +\\
+  &\beta_1 \cdot POST\_INTERVENTION_{ij} + \beta_2 \cdot (SPECIES_{ij} \cdot POST\_INTERVENTION_{ij})
+  \end{align*}
+  $$
 
-
-   Where:
-
+  Where:
   - $\log(\text{COUNT}_{ij})$ is the log of the expected mosquito count for study $i$ and sampling method $j$.
   - $\text{offset}( \log(\text{NSAMP}_{ij}))$ is the offset term that adjusts for the number of samples NSAMP in study $i$ 
   and method $j$.
@@ -267,6 +262,22 @@ POST_INTERVENTIONTRUE:SPECIESfunestus   -0.4204     0.2640  -1.593    0.111
 POST_INTERVENTIONFALSE:SPECIESgambiae    3.1396     1.9240   1.632    0.103    
 POST_INTERVENTIONTRUE:SPECIESgambiae     1.9381     1.9241   1.007    0.314   
 ```
+
+- **Interpreting the Fixed Effects.** These are the key effects of POST INTERVENTION
+(whether an intervention was implemented) and its interaction with SPECIES.
+    - **POST\_INTERVENTIONFALSE** (Estimate = 1.3722, p = 0.126): Represents the effect of not having an intervention (reference is pre-intervention). Although positive, it is not statistically significant at the 0.05 level.
+    - **POST\_INTERVENTIONTRUE** (Estimate = 1.3139, p = 0.143): Represents the effect of having an intervention. Also positive but not statistically significant, meaning there's no strong evidence that the intervention alone significantly affects species abundance.
+    - **{POST\_INTERVENTIONFALSE: SPECIESfunestus** (Estimate = 1.6238, p < 0.001): This interaction is highly significant. It suggests that before the intervention, An. funestus was much more abundant (compared to the reference species, likely An. arabiensis).
+    - **POST\_INTERVENTIONTRUE: SPECIESfunestus** (Estimate = -0.4204, p = 0.111): After the intervention, the abundance of An. funestus decreases, though this effect is not statistically significant.
+    - **POST\_INTERVENTIONFALSE: SPECIESgambiae** (Estimate = 3.1396, p = 0.103): Suggests that An. gambiae was much more abundant before the intervention, though the effect is not statistically significant.
+    - **POST\_INTERVENTIONTRUE: SPECIESgambiae** (Estimate = 1.9381, p = 0.314): After the intervention, An. gambiae remains relatively abundant, but this effect is also not statistically significant.
+      
+    
+    
+    
+    
+    
+    
 
 
 
