@@ -224,8 +224,8 @@ are essential for understanding the impact of Indoor Residual Spraying (IRS) and
 Insecticidal Nets (LLINs) on vector species composition.
 
 ### Software and Tools
-The analysis utilizes software tools such as R as the primary platform for data processing, statis-
-tical modeling, and visualization. The lme4 package is used for fitting generalized linear mixed
+The analysis utilizes software tools such as `R` as the primary platform for data processing, statis-
+tical modeling, and visualization. The `lme4` package is used for fitting generalized linear mixed
 models (GLMMs) with a Poisson distribution.
 
 ## Results
