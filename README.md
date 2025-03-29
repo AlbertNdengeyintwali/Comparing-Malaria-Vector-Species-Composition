@@ -198,7 +198,7 @@ $$
 $$
 \begin{align*}
 \log(COUNT_{ij}) &= \text{offset}(\log(NSAMP_{ij})) + u_{ID_i} + v_{SAMPLING_j} + w_{PDF_k}^{(SPECIES)} +\\
-&\beta_1 \cdot POST\_INTERVENTION_{ij} + \beta_2 \cdot (SPECIES_{ij} \cdot POST\_INTERVENTION_{ij})
+&\beta_1 \cdot POST\_ INTERVENTION_{ij} + \beta_2 \cdot (SPECIES_{ij} \cdot POST\_ INTERVENTION_{ij})
 \end{align*}
 $$
 
@@ -211,9 +211,9 @@ $$
      due to the methods used.
   - $w_{PDF_k}^{(SPECIES)}$ is the random slope for species within each study, allowing the effect of species to vary 
     across studies $k$.
-  - $\beta_1 \cdot POST\_INTERVENTION_{ij}$ is the fixed effect for the post-intervention period, modeling the 
+  - $\beta_1 \cdot POST\_ INTERVENTION_{ij}$ is the fixed effect for the post-intervention period, modeling the 
      average effect of the intervention on mosquito catch rates.
-  - $\beta_2 \cdot (SPECIES_{ij} \cdot POST\_INTERVENTION_{ij})$ is the interaction term between species 
+  - $\beta_2 \cdot (SPECIES_{ij} \cdot POST\_ INTERVENTION_{ij})$ is the interaction term between species 
      and the post-intervention period, capturing how the intervention affects different species differently.
 
 - **Model Implementation**. The model is implemented using the lme4 package in R, which
