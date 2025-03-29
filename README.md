@@ -179,14 +179,15 @@ choice (Radam and Hameed, 2023).
 The general structure of a GLM can be expressed as:
 
 $$
-   g \left( E(Y) \right) = \alpha + \beta_1 x_1 + \beta_2 x_2 + \cdots + \beta_p x_p
+g \left( E(Y) \right) = \alpha + \beta_1 x_1 + \beta_2 x_2 + \cdots + \beta_p x_p
 $$
 
    where $Y$ is the dependent variable (i.e., the count we are trying to predict), $E(Y)$ denotes the expected value, $g(Y)$ is the link function that relates the expected value to the linear predictor, and $x_1, \ldots, x_p$ are the independent variables.
 
    For a Poisson GLM, the link function typically used is the logarithm, which models the log of the expected count as a linear combination of the predictors:
+   
 $$
-   \log(E(Y)) = \alpha + \beta_1 x_1 + \beta_2 x_2 + \cdots + \beta_p x_p
+\log(E(Y)) = \alpha + \beta_1 x_1 + \beta_2 x_2 + \cdots + \beta_p x_p
 $$
 
    This formulation allows the expected counts to be expressed in terms of the independent variables, thereby providing a direct interpretation of the effects of predictors on the response variable. The coefficients $\beta_1, \ldots, \beta_p$ indicate the change in the log count of the response variable for a one-unit change in the corresponding predictor (Hilbe, 2009).
@@ -202,10 +203,15 @@ $$
 Where:
 
     - $\log(\text{COUNT}_{ij})$ is the log of the expected mosquito count for study $i$ and sampling method $j$.
-    - $\text{offset}( \log(\text{NSAMP}_{ij}))$ is the offset term that adjusts for the number of samples NSAMP in study $i$ and method $j$.
+    - $\text{offset}( \log(\text{NSAMP}_{ij}))$ is the offset term that adjusts for the number of samples NSAMP in study $i$ 
+     and method $j$.
     - $u_{ID_i}$ is the random intercept for the clusters to account for differences in average abundance across clusters.
-    - $v_{SAMPLING_j}$ is the random intercept for the different sampling methods, accounting for differences in catch rates due to the methods used.
-    - $w_{PDF_k}^{(SPECIES)}$ is the random slope for species within each study, allowing the effect of species to vary across studies $k$.
-    - $\beta_1 \cdot \text{POST\_INTERVENTION}_{ij}$ is the fixed effect for the post-intervention period, modeling the average effect of the intervention on mosquito catch rates.
-     - $\beta_2 \cdot (\text{SPECIES}_{ij} \cdot \text{POST\_INTERVENTION}_{ij})$ is the interaction term between species and the post-intervention period, capturing how the intervention affects different species differently.
+    - $v_{SAMPLING_j}$ is the random intercept for the different sampling methods, accounting for differences in catch rates 
+     due to the methods used.
+    - $w_{PDF_k}^{(SPECIES)}$ is the random slope for species within each study, allowing the effect of species to vary 
+     across studies $k$.
+    - $\beta_1 \cdot \text{POST\_INTERVENTION}_{ij}$ is the fixed effect for the post-intervention period, modeling the 
+     average effect of the intervention on mosquito catch rates.
+    - $\beta_2 \cdot (\text{SPECIES}_{ij} \cdot \text{POST\_INTERVENTION}_{ij})$ is the interaction term between species 
+     and the post-intervention period, capturing how the intervention affects different species differently.
 
