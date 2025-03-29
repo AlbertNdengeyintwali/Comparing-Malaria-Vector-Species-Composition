@@ -271,6 +271,64 @@ POST_INTERVENTIONTRUE:SPECIESgambiae     1.9381     1.9241   1.007    0.314
     - **POST\_INTERVENTIONTRUE: SPECIESfunestus** (Estimate = -0.4204, p = 0.111): After the intervention, the abundance of An. funestus decreases, though this effect is not statistically significant.
     - **POST\_INTERVENTIONFALSE: SPECIESgambiae** (Estimate = 3.1396, p = 0.103): Suggests that An. gambiae was much more abundant before the intervention, though the effect is not statistically significant.
     - **POST\_INTERVENTIONTRUE: SPECIESgambiae** (Estimate = 1.9381, p = 0.314): After the intervention, An. gambiae remains relatively abundant, but this effect is also not statistically significant.
+ 
+-**Random Effects** The random effects section of the output describes the variability in
+the model attributed to differences across groups, such as study clusters, species, or sampling
+methods, rather than individual observations. Since An. arabiensis is the reference species, its
+variability is captured in the intercept terms, and the other species’ deviations are shown relative
+to it. Here’s a breakdown of what each part means:
+
+```
+Random effects:
+ Groups   Name            Std.Dev. Corr       
+ ID       (Intercept)     1.14493             
+ PDF      (Intercept)     1.76281             
+          SPECIESfunestus 0.07652   1.00      
+          SPECIESgambiae  3.93946  -0.52 -0.52
+ SAMPLING (Intercept)     0.68755             
+```
+
+  - **ID** (Std. Dev = 1.14493): This random effect accounts for differences in abundance across clusters (IDs). The standard deviation of 1.14 shows moderate variability between different clusters in the dataset.
+  - **PDF (study)** (Std. Dev = 1.76281): This random intercept represents variability between studies in the overall species abundance. A standard deviation of 1.76 indicates substantial variation across studies.
+  - **SPECIES Random Slopes (across PDF):**
+    - **An. funestus** (Std. Dev = 0.07652): Indicates that the variation in An. funestus abundance across studies is very small.
+    - **An. gambiae** (Std. Dev = 3.93946): Shows that An. gambiae has much larger variation in abundance across different studies compared to An. funestus.
+  - **SAMPLING** (Std. Dev = 0.68755): This random effect accounts for differences between sampling methods. A standard deviation of 0.69 suggests moderate variability in catch sizes across different sampling methods.
+
+
+### Predictions for each study, pre-post intervention
+
+| PDF              | POST_INTERVENTION | TOTAL_COUNT  | FUNESTUS   | ARABIENSIS  | GAMBIAE    |
+|-----------------|-----------------|-------------|-----------|------------|-----------|
+| 415             | FALSE           | 113.260366  | 0.105314614 | 0.0212135001 | 0.87347189 |
+| 415             | TRUE            | 31.790392   | 0.045829316 | 0.0712981149 | 0.88287257 |
+| 446             | FALSE           | 119.797267  | 0.041436087 | 0.0086564933 | 0.94990742 |
+| 446             | TRUE            | 33.869201   | 0.017901662 | 0.0288846826 | 0.95321366 |
+| 1073            | FALSE           | 114.236759  | 0.079882551 | 0.0162710017 | 0.90384645 |
+| 1073            | TRUE            | 32.161371   | 0.034657394 | 0.0545216834 | 0.91082092 |
+| 1189            | FALSE           | 76.661177   | 0.810013243 | 0.1523378657 | 0.03764889 |
+| 1189            | TRUE            | 19.420657   | 0.390549741 | 0.5672873298 | 0.04216293 |
+| 1301            | FALSE           | 113.750557  | 0.088600114 | 0.0179722460 | 0.89342764 |
+| 1301            | TRUE            | 31.991938   | 0.038478658 | 0.0602835721 | 0.90123777 |
+| 1305            | FALSE           | 13.654507   | 0.492433890 | 0.1015846375 | 0.40598147 |
+| 1305            | TRUE            | 3.702545    | 0.221817770 | 0.3534169860 | 0.42476524 |
+| 1327            | FALSE           | 151.003753  | 0.005848344 | 0.0013127727 | 0.99283888 |
+| 1327            | TRUE            | 42.828613   | 0.002518601 | 0.0043664341 | 0.99311497 |
+| 1502            | FALSE           | 123.574741  | 0.268205627 | 0.0517758621 | 0.68001851 |
+| 1502            | TRUE            | 33.924774   | 0.119331003 | 0.1779195727 | 0.70274942 |
+| 1573            | FALSE           | 298.055158  | 0.668511443 | 0.1197733082 | 0.21171525 |
+| 1573            | TRUE            | 75.917747   | 0.320578826 | 0.4436055975 | 0.23581558 |
+| 5816            | FALSE           | 1008.355029 | 0.017717777 | 0.0035094066 | 0.97877282 |
+| 5816            | TRUE            | 285.523354  | 0.007642822 | 0.0116920096 | 0.98066517 |
+| 6168            | FALSE           | 133.254873  | 0.334768739 | 0.0638317033 | 0.60139956 |
+| 6168            | TRUE            | 36.208980   | 0.150481935 | 0.2216087408 | 0.62790932 |
+| (Odhiambo et al) | FALSE          | 640.417279  | 0.780358158 | 0.1345647687 | 0.08507707 |
+| (Odhiambo et al) | TRUE           | 157.797411  | 0.386838602 | 0.5152027617 | 0.09795864 |
+| Awolola et al   | FALSE           | 4706.919445 | 0.003524958 | 0.0007003502 | 0.99577469 |
+| Awolola et al   | TRUE            | 1334.870696 | 0.001518183 | 0.0023296809 | 0.99615214 |
+
+
+  
       
     
     
