@@ -230,7 +230,7 @@ models (GLMMs) with a Poisson distribution.
 
 ## Results
 
-his section presents the findings from the analysis of malaria vector species composition using
+This section presents the findings from the analysis of malaria vector species composition using
 a Poisson Generalized Linear Model (GLM) in relation to the implementation of Indoor Residual
 Spraying (IRS) and Long-Lasting Insecticide-Treated Nets (LLINs) across various studies. The
 results provide insights into shifts in vector population dynamics, emphasizing the relative abun-
