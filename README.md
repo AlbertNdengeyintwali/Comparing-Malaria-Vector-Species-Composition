@@ -195,8 +195,10 @@ $$
 - **Model Components.**
   
 $$
-\log(\text{COUNT}_{ij}) = \text{offset}(\log(\text{NSAMP}_{ij})) + u_{ID_i} + v_{SAMPLING_j} + w_{PDF_k}^{(\text{SPECIES})} +  
-\beta_1 \cdot \text{POST\_INTERVENTION}_{ij} + \beta_2 \cdot (\text{SPECIES}_{ij} \times \text{POST\_INTERVENTION}_{ij})
+\begin{align*}
+\log(\text{COUNT}_{ij}) &= \text{offset}(\log(\text{NSAMP}_{ij})) + u_{\text{ID}_i} + v_{\text{SAMPLING}_j} + w_{PDF_k}^{(\text{SPECIES})} +\\
+&\beta_1 \cdot \text{POST\_INTERVENTION}_{ij} + \beta_2 \cdot (\text{SPECIES}_{ij} \cdot \text{POST\_INTERVENTION}_{ij})  
+\end{align*}
 $$
 
 
