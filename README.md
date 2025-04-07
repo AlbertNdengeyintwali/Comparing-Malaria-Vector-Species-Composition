@@ -272,7 +272,7 @@ POST_INTERVENTIONTRUE:SPECIESgambiae     1.9381     1.9241   1.007    0.314
     - **POST\_INTERVENTIONFALSE: SPECIESgambiae** (Estimate = 3.1396, p = 0.103): Suggests that An. gambiae was much more abundant before the intervention, though the effect is not statistically significant.
     - **POST\_INTERVENTIONTRUE: SPECIESgambiae** (Estimate = 1.9381, p = 0.314): After the intervention, An. gambiae remains relatively abundant, but this effect is also not statistically significant.
  
--**Random Effects** The random effects section of the output describes the variability in
+- **Random Effects** The random effects section of the output describes the variability in
 the model attributed to differences across groups, such as study clusters, species, or sampling
 methods, rather than individual observations. Since An. arabiensis is the reference species, its
 variability is captured in the intercept terms, and the other species’ deviations are shown relative
